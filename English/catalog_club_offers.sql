@@ -11,6 +11,7 @@ CREATE TABLE `catalog_club_offers` (
   `deal` enum('0','1') NOT NULL DEFAULT '0'
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
+
 INSERT INTO `catalog_club_offers` (`id`, `enabled`, `name`, `days`, `credits`, `points`, `points_type`, `type`, `deal`) VALUES
 (1, '1', 'HABBO_CLUB_1_MONTH', 31, 50, 50, 5, 'VIP', '0'),
 (3, '1', 'HABBO_CLUB_3_MONTH', 90, 120, 120, 5, 'VIP', '0');
