@@ -1,4 +1,4 @@
-
+DROP TABLE IF EXISTS `catalog_pages`;
 CREATE TABLE `catalog_pages` (
   `id` int(11) NOT NULL,
   `parent_id` int(11) NOT NULL DEFAULT '-1',

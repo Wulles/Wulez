@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS `catalog_featured_pages`;
 CREATE TABLE `catalog_featured_pages` (
   `slot_id` int(11) NOT NULL,
   `image` varchar(64) NOT NULL DEFAULT '',

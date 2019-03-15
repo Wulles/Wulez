@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS `catalog_club_offers`;
 CREATE TABLE `catalog_club_offers` (
   `id` int(11) NOT NULL,
   `enabled` enum('0','1') NOT NULL DEFAULT '1',
