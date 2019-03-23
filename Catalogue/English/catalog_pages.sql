@@ -1,4 +1,15 @@
 DROP TABLE IF EXISTS `catalog_pages`;
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
 CREATE TABLE `catalog_pages` (
   `id` int(11) NOT NULL,
   `parent_id` int(11) NOT NULL DEFAULT '-1',
@@ -338,8 +349,8 @@ INSERT INTO `catalog_pages` (`id`, `parent_id`, `caption_save`, `caption`, `icon
 (912445, 8, '', 'HC Furni', 1, 258, '1', '1', 1, '0', 2, 'default_3x3', 'catalog_header_hc', 'teaser_habboclub', 'club_shop', 'As a member of Habbo Club or HC, you can shop from this selection of exclusive items. Every now and then we will also be adding items that are currently unavailable in the regular Furni Shop as well!', '', '', '', '0', '', 0),
 (912446, 912439, '', 'fools', 1, 28, '1', '1', 6, '0', 20, 'pets', 'babypets_cata_header', 'babypets_cata_header', '', 'OINK! Eles adoram se jogar na lama! Esses travessos porquinhos chegaram no Hotel para se divertir!', '', '', '', '0', '', 0),
 (912447, 912412, 'wallfurnisbitch', 'Wall decorations', 1, 219, '1', '1', 1, '0', 7, 'default_3x3', 'catalog_gallery_headline1', 'catalog_posters_teaser1', '', 'Adorn your walls with wondrous works of art, posters, plaques, and wall hangings. The Gallery is bursting with items to suit all tastes, from kitsch to cool, traditional to modern.', '', '', '', '0', '', 0),
-(912448, 14, '', 'Velociraptor Pet', 1, 260, '1', '1', 1, '0', 3, 'pets', 'jurassic15_catalog_header', 'dino_pets', '', 'RÃ¡pidos e sorrateiros, esses rÃ©pteis tÃªm reputaÃ§Ã£o de bichos difÃ­ceis, mas conquiste a amizade deles e terÃ¡ um amigo para a vida! Vai encarar?', '', '', '', '0', '', 0),
-(912449, 14, '', 'Pterodactyl Pet', 1, 260, '1', '1', 1, '0', 4, 'pets', 'jurassic15_catalog_header', 'dino_pets', '', 'EsqueÃ§a a aparÃªncia feroz! Bem o fundo, estes \"lagartos voadores\" sÃ£o uns amores e gostam de passar o tempo com o seu dono, subindo pelos cÃ©us do hotel e comendo a sua comida favorita: repolho!', '', '', '', '0', '', 0),
+(912448, 14, 'velociraptor', 'Velociraptor Pet', 1, 260, '1', '1', 1, '0', 3, 'single_bundle', 'jurassic15_catalog_header', 'dino_pets', '', 'Swift and sneaky, these reptiles have a reputation for being somewhat high-maintenance, increndibly intellectual and endlessly troublesome! You\'ll often find them pondering over deeply philosophical questions, or enjoying the finer things in life, like pedicures and meat straight off the bone.', '', '', '', '0', '', 0),
+(912449, 14, 'pterodactyl', 'Pterodactyl Pet', 1, 260, '1', '1', 1, '0', 4, 'single_bundle', 'jurassic15_catalog_header', 'dino_pets', '', 'These pterrific pets have a fierce appearance with long talons and sharp teeth, but their sweet nature always shines through! Ultra laid-back, these \'flying lizards\' love nohing more than spending time with their owner, soaring through the Hotel skies and eating their favourite food...the humble kale leaf.', '', '', '', '0', '', 0),
 (912450, 912455, '', 'Habbo-Lympix', 1, 215, '1', '1', 6, '0', 266, 'default_3x3', 'staff_shop_header', 'furni_for_staffs', '', 'Mobis raros semanais', '', '', '', '0', '', 0),
 (912451, 912409, '', 'Packs', 1, 206, '0', '0', 1, '0', 2, 'default_3x3', '', '', 'bundlerooms', '', '', '', '', '0', '', 0),
 (912453, 912451, '', 'Pack Habitat do Mimoso na Cozinha Aconchegante', 1, 206, '0', '0', 1, '0', 0, 'single_bundle', 'catalog_header_roombundle', '', '', 'DÃª um lugar confortÃ¡vel para que o seu gatinho possa descansar e descer com diversÃ£o e mobis bonitos.', '', '', '', '0', '', 0),
@@ -415,9 +426,9 @@ INSERT INTO `catalog_pages` (`id`, `parent_id`, `caption_save`, `caption`, `icon
 (9125225, 912393, '', 'Dessert', 1, 206, '1', '1', 6, '0', 2, 'default_3x3', '', '', 'bundlerooms', '', '', '', '', '0', '', 0),
 (9125226, 912389, '', 'Modern Studio', 1, 278, '1', '1', 1, '0', 136, 'default_3x3', 'feature_cata_hort_modernapt17', 'extra1', '', 'Paredes de tijolos vermelhos, equipamentos eletrÃ´nicos top de linha e mobis de design exclusivo - o que mais vocÃª poderia querer?', '', '', '', '0', '', 0),
 (9125231, 912393, 'stafffurnis', 'currencies', 1, 8, '1', '1', 6, '0', 2, 'default_3x3', 'staff_shop_header', 'furni_for_staffs', '', 'Loja de Mobis nos quais apenas membros da equipe estÃ£o autorizados a mexer.', 'Clique em um item para ver detalhes.', '', '', '0', '', 0),
-(9125232, 912389, '', 'Inflatable Chairs', 1, 234, '1', '1', 1, '0', 90, 'default_3x3', 'inflatable_chairs_cata_header', 'inflateable_chairs_teaser', '', 'They say that these chairs are Suuuuuper soft because of the air that keeps them full, how about buying one and experiencing yourself? Enjoy!', '', '', '', '0', '', 0),
-(9125233, 912389, '', 'Traffic Signs', 1, 241, '1', '1', 1, '0', 200, 'default_3x3', 'catalog_header_traffic_signs', 'catalog_teaser_traffic_signs', '', 'Mantenha as ruas ruas sempre bem sinalizadas com esses mobis maravilhosos e Ãºnicos.', '', '', '', '0', '', 0);
+(9125232, 912389, '', 'Inflatable Chairs', 1, 234, '1', '1', 1, '0', 90, 'default_3x3', 'inflatable_chairs_cata_header', 'inflateable_chairs_teaser', '', 'They say that these chairs are Suuuuuper soft because of the air that keeps them full, how about buying one and experiencing yourself? Enjoy!', '', '', '', '0', '', 0);
 INSERT INTO `catalog_pages` (`id`, `parent_id`, `caption_save`, `caption`, `icon_color`, `icon_image`, `visible`, `enabled`, `min_rank`, `club_only`, `order_num`, `page_layout`, `page_headline`, `page_teaser`, `page_special`, `page_text1`, `page_text2`, `page_text_details`, `page_text_teaser`, `vip_only`, `includes`, `room_id`) VALUES
+(9125233, 912389, '', 'Traffic Signs', 1, 241, '1', '1', 1, '0', 200, 'default_3x3', 'catalog_header_traffic_signs', 'catalog_teaser_traffic_signs', '', 'Mantenha as ruas ruas sempre bem sinalizadas com esses mobis maravilhosos e Ãºnicos.', '', '', '', '0', '', 0),
 (9125234, 912393, 'stafffurnis', 'chest', 1, 4, '1', '1', 6, '0', 2, 'default_3x3', 'staff_shop_header', 'furni_for_staffs', '', 'Loja de Mobis nos quais apenas membros da equipe estÃ£o autorizados a mexer.', 'Clique em um item para ver detalhes.', '', '', '0', '', 0),
 (9125235, 912455, '', 'Raros', 1, 42, '1', '1', 6, '0', 4, 'default_3x3', 'catalog_rares_headline1_br', 'teaser_le', 'newrares22', 'Esses Mobis Raros exclusivos estarÃ£o disponÃ­veis por tempo limitado! Descole-os enquanto Ã© tempo! Eles sÃ£o muito pirados!', '', '', '', '0', '', 0),
 (9125236, 912393, '', 'esmerald rares', 1, 206, '1', '1', 6, '0', 2, 'default_3x3', '', '', 'bundlerooms', '', '', '', '', '0', '', 0),
@@ -430,3 +441,11 @@ INSERT INTO `catalog_pages` (`id`, `parent_id`, `caption_save`, `caption`, `icon
 (9125244, 912454, '', 'Effects', 1, 61, '1', '1', 1, '0', 13, 'default_3x3', 'avatar_fx_header', 'permeffects_teaser', 'effects', 'ALL NEW Permanent effects are here! Sick of purchasing effects multiple times? Want to keep effects forever? Want to trade your way to the top of the effects kingdom?Well then, Permanent effects are for you!', '', '', '', '0', '', 0),
 (9125248, 912389, 'sanvalentin19', 'Romantic Restaurant', 1, 62, '1', '1', 1, '0', 186, 'default_3x3', 'catalog_rares_headline1_br', 'val19_newfurni', '', 'To leave you in the mood of Habbo Valentine, we created a mini line of Mobis called Cantina Romântica. Check out!', '', '', '', '0', '', 0),
 (9125249, 912393, 'puppypresent', 'RARE Puppy Present', 1, 42, '1', '1', 6, '0', 4, 'default_3x3', 'catalog_rares_headline1_br', 'val19_puppy', '', 'Is that special someone a dog lover? Well, you\'ve just found the perfect present. This item is rare - don\'t miss out.', '', '', '', '0', '', 0);
+
+ALTER TABLE `catalog_pages`
+  ADD PRIMARY KEY (`id`);
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
