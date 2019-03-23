@@ -1,3 +1,7 @@
+### Help me to make my computer still breathing
+
+[<img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/paybutton.png">](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lhdsa@icloud.com&lc=US&item_name=Help+me+to+get+new+computer.&no_note=0&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
+
 * [Download the project](https://github.com/Wulles/Wulez/archive/master.zip).
 * Arcturus WikiHome [Download Arcturus](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
 
