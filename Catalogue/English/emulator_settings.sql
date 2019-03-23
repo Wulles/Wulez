@@ -1,0 +1,2 @@
+UPDATE `emulator_settings` SET `value` = '1' WHERE `emulator_settings`.`key` = 'hotel.catalog.purchase.cooldown';
+UPDATE `emulator_settings` SET `value` = '1' WHERE `emulator_settings`.`key` = 'hotel.catalog.items.display.ordernum';
