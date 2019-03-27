@@ -18,6 +18,8 @@ Wulez is a project of Catalogue and SWF, totally based on the original servers o
 
 *It is a free and open source project, you can make changes to your server on your computer.*
 
+> *Note: SWF archives are separated, will only be released on another platform(mega.nz), once the whole swf is ready and up-to-date.*
+
 ### Contact and Suport
 
 * Discord: Wulles#2800
