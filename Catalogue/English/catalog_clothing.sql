@@ -12,8 +12,8 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `catalog_clothing` (
   `id` int(11) NOT NULL,
-  `name` varchar(50) NOT NULL,
-  `setid` varchar(50) NOT NULL
+  `name` varchar(75) NOT NULL,
+  `setid` varchar(75) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
@@ -259,7 +259,8 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (243, 'clothing_luscioushair', '3673'),
 (244, 'clothing_wetsuit', '3678,3679'),
 (245, 'clothing_sailortop', '3682,3683'),
-(246, 'clothing_flippers', '3687');
+(246, 'clothing_flippers', '3687'),
+(247, 'clothing_r19_messybangs', '3790');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
