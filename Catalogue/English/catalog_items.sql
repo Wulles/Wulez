@@ -7127,6 +7127,10 @@ INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`,
 (755491, 912473, '755491', -1, 0, 99, 'xmas_ltd16_bearbed', 500, 0, 0, 1, 0, 0, '', '0', '0'),
 (755492, 912475, '755492', -1, 0, 99, 'xmas_r16_owl', 25, 0, 25, 1, 0, 0, '', '0', '0'),
 (755493, 912480, '755493', -1, 0, 99, 'xmas_r16_throne', 120, 0, 120, 1, 0, 0, '', '0', '0'),
+(810227, 9125251, '810227', 16376, 0, 1, 'band_c19_drums', 7, 10, 5, 1, 0, 0, '', '1', '0'),
+(810229, 9125251, '810229', 16378, 0, 3, 'band_c19_guitar', 5, 0, 0, 1, 0, 0, '', '1', '0'),
+(810230, 9125250, '810230', 16464, 0, 1, 'clothing_r19_messybangs', 25, 25, 5, 1, 0, 0, '', '0', '0'),
+(810232, 9125251, '810232', 16381, 0, 2, 'band_c19_synth', 6, 10, 5, 1, 0, 0, '', '1', '0'),
 (888052, 0, '888052', -1, 0, 99, 'jungle_r16_pitcherplant', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (900406, 9051, '900406', 14133, 0, 99, 'uni_catrug', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (987118, 9125241, '987118', -1, 0, 99, 'CF_750_goldenpig', 750, 0, 0, 1, 0, 0, '', '0', '0'),
@@ -7288,12 +7292,12 @@ INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`,
 (1802120, 9125223, '1802120', 1, 0, 99, 'bazaar_c17_pillowpurple', 10, 1, 5, 1, 0, 0, '', '1', ''),
 (1802121, 9125223, '1802121', 1, 0, 99, 'bazaar_c17_pillowpurpleyellowtrim', 10, 1, 5, 1, 0, 0, '', '1', ''),
 (1802122, 9125223, '1802122', 1, 0, 99, 'bazaar_c17_pillowyellow', 10, 1, 5, 1, 0, 0, '', '1', ''),
-(1802123, 9125223, '1802123', 1, 0, 99, 'bazaar_c17_pillowyellowbluetrim', 10, 1, 5, 1, 0, 0, '', '1', ''),
+(1802123, 9125223, '1802123', 1, 0, 99, 'bazaar_c17_pillowyellowbluetrim', 10, 1, 5, 1, 0, 0, '', '1', '');
+INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (1802124, 9125223, '1802124', 1, 0, 99, 'bazaar_c17_pots', 4, 0, 0, 1, 0, 0, '', '1', ''),
 (1802125, 9125223, '1802125', 1, 0, 99, 'bazaar_c17_rug', 0, 115, 0, 1, 0, 0, '', '1', ''),
 (1802126, 9125223, '1802126', 1, 0, 99, 'bazaar_c17_rugblue', 0, 115, 0, 1, 0, 0, '', '1', ''),
-(1802127, 9125223, '1802127', 1, 0, 99, 'bazaar_c17_rugbluepinktrim', 0, 115, 0, 1, 0, 0, '', '1', '');
-INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(1802127, 9125223, '1802127', 1, 0, 99, 'bazaar_c17_rugbluepinktrim', 0, 115, 0, 1, 0, 0, '', '1', ''),
 (1802128, 9125223, '1802128', 1, 0, 99, 'bazaar_c17_ruggreen', 0, 115, 0, 1, 0, 0, '', '1', ''),
 (1802129, 9125223, '1802129', 1, 0, 99, 'bazaar_c17_ruggreenpurpletrim', 0, 115, 0, 1, 0, 0, '', '1', ''),
 (1802130, 9125223, '1802130', 1, 0, 99, 'bazaar_c17_rugmystic', 0, 115, 0, 1, 0, 0, '', '1', ''),
@@ -7831,11 +7835,11 @@ INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`,
 (44390901, 9106, '44390901', -1, 0, 99, 'bc_standinghalfcylinder*10', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390902, 9106, '44390902', -1, 0, 99, 'bc_standinghalfcylinder*11', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390903, 9106, '44390903', -1, 0, 99, 'bc_standinghalfcylinder*12', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(44390904, 9106, '44390904', -1, 0, 99, 'bc_standinghalfcylinder*13', 1, 0, 0, 1, 0, 0, '', '1', '0'),
+(44390904, 9106, '44390904', -1, 0, 99, 'bc_standinghalfcylinder*13', 1, 0, 0, 1, 0, 0, '', '1', '0');
+INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (44390905, 9106, '44390905', -1, 0, 99, 'bc_standinghalfcylinder*14', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390906, 9106, '44390906', -1, 0, 99, 'bc_standinghalfcylinder*15', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(44390907, 9106, '44390907', -1, 0, 99, 'bc_standinghalfcylinder*16', 1, 0, 0, 1, 0, 0, '', '1', '0');
-INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(44390907, 9106, '44390907', -1, 0, 99, 'bc_standinghalfcylinder*16', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390908, 9106, '44390908', -1, 0, 99, 'bc_standinghalfcylinder*17', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390909, 9106, '44390909', -1, 0, 99, 'bc_standinghalfcylinder*18', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390910, 9106, '44390910', -1, 0, 99, 'bc_standinghalfcylinder*19', 1, 0, 0, 1, 0, 0, '', '1', '0'),
@@ -8375,11 +8379,11 @@ INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`,
 (44391706, 9107, '44391706', -1, 0, 99, 'bc_standingtriangularprism*15', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391707, 9107, '44391707', -1, 0, 99, 'bc_standingtriangularprism*16', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391708, 9107, '44391708', -1, 0, 99, 'bc_standingtriangularprism*17', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(44391709, 9107, '44391709', -1, 0, 99, 'bc_standingtriangularprism*18', 1, 0, 0, 1, 0, 0, '', '1', '0'),
+(44391709, 9107, '44391709', -1, 0, 99, 'bc_standingtriangularprism*18', 1, 0, 0, 1, 0, 0, '', '1', '0');
+INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (44391710, 9107, '44391710', -1, 0, 99, 'bc_standingtriangularprism*19', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391711, 9107, '44391711', -1, 0, 99, 'bc_standingtriangularprism*2', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(44391712, 9107, '44391712', -1, 0, 99, 'bc_standingtriangularprism*20', 1, 0, 0, 1, 0, 0, '', '1', '0');
-INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(44391712, 9107, '44391712', -1, 0, 99, 'bc_standingtriangularprism*20', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391713, 9107, '44391713', -1, 0, 99, 'bc_standingtriangularprism*21', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391714, 9107, '44391714', -1, 0, 99, 'bc_standingtriangularprism*22', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391715, 9107, '44391715', -1, 0, 99, 'bc_standingtriangularprism*23', 1, 0, 0, 1, 0, 0, '', '1', '0'),
@@ -8930,11 +8934,11 @@ INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`,
 (88805288, 39, '88805288', -1, 0, 99, 'bonusrare16_6*1', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805289, 39, '88805289', -1, 0, 99, 'bonusrare16_6*2', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805290, 39, '88805290', -1, 0, 99, 'bonusrare16_6*3', 3, 0, 0, 1, 0, 0, '', '1', '0'),
-(88805291, 39, '88805291', -1, 0, 99, 'bonusrare16_6*4', 3, 0, 0, 1, 0, 0, '', '1', '0'),
+(88805291, 39, '88805291', -1, 0, 99, 'bonusrare16_6*4', 3, 0, 0, 1, 0, 0, '', '1', '0');
+INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (88805292, 39, '88805292', -1, 0, 99, 'bonusrare16_6*5', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805293, 39, '88805293', -1, 0, 99, 'bonusrare16_6*6', 3, 0, 0, 1, 0, 0, '', '1', '0'),
-(88805294, 0, '88805294', -1, 0, 99, 'super_c16_pstriron', 3, 0, 0, 1, 0, 0, '', '1', '0');
-INSERT INTO `catalog_items` (`id`, `page_id`, `item_ids`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(88805294, 0, '88805294', -1, 0, 99, 'super_c16_pstriron', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805295, 0, '88805295', -1, 0, 99, 'super_c16_pstrcat', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805296, 0, '88805296', -1, 0, 99, 'super_c16_pstrsulk', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805297, 0, '88805297', -1, 0, 99, 'super_c16_pstrlove', 3, 0, 0, 1, 0, 0, '', '1', '0'),
