@@ -12,13 +12,13 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `catalog_featured_pages` (
   `slot_id` int(11) NOT NULL,
-  `image` varchar(64) NOT NULL DEFAULT '',
-  `caption` varchar(128) NOT NULL DEFAULT '',
+  `image` varchar(65) NOT NULL DEFAULT '',
+  `caption` varchar(130) NOT NULL DEFAULT '',
   `type` enum('page_name','page_id','product_name') NOT NULL DEFAULT 'page_name',
   `expire_timestamp` int(11) NOT NULL DEFAULT '-1',
-  `page_name` varchar(16) NOT NULL DEFAULT '',
+  `page_name` varchar(20) NOT NULL DEFAULT '',
   `page_id` int(11) NOT NULL DEFAULT '0',
-  `product_name` varchar(32) NOT NULL DEFAULT ''
+  `product_name` varchar(35) NOT NULL DEFAULT ''
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 INSERT INTO `catalog_featured_pages` (`slot_id`, `image`, `caption`, `type`, `expire_timestamp`, `page_name`, `page_id`, `product_name`) VALUES
