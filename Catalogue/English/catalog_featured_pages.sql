@@ -1,4 +1,15 @@
 DROP TABLE IF EXISTS `catalog_featured_pages`;
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
 CREATE TABLE `catalog_featured_pages` (
   `slot_id` int(11) NOT NULL,
   `image` varchar(64) NOT NULL DEFAULT '',
@@ -11,7 +22,15 @@ CREATE TABLE `catalog_featured_pages` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 INSERT INTO `catalog_featured_pages` (`slot_id`, `image`, `caption`, `type`, `expire_timestamp`, `page_name`, `page_id`, `product_name`) VALUES
-(1, 'catalogue/feature_cata/feature_cata_hort_HC_b.png', 'Seja HC!', 'page_name', -1, 'behcbitch', 912422, ''),
-(2, 'catalogue/feature_cata/feature_cata_hort_clothes.png', 'Loja de Roupas', 'page_name', -1, 'clothingspage', 912454, ''),
-(3, 'catalogue/feature_cata/feature_cata_hort_house18_bun2.png', 'Gamer Pro', 'page_name', -1, 'gamingc18', 9125240, ''),
-(4, 'catalogue/feature_cata/feature_cata_vert_diapaintings18.png', 'NOVAS Obras de Arte Diamante!', 'page_name', -1, 'wallfurnisbitch', 912447, '');
+(1, 'catalogue/feature_cata/feature_cata_hort_HC_b.png', 'Become a HC Member', 'page_name', -1, 'vip_buy', 0, ''),
+(3, 'catalogue/feature_cata/feature_cata_hort_clothes.png', 'Clothes Shop', 'page_name', -1, 'clothingspick', 0, ''),
+(4, 'catalogue/feature_cata/feature_cata_vert_easter17old.png', 'Classic Easter Furni', 'page_name', -1, 'eastercomeback19', 0, ''),
+(2, 'catalogue/feature_cata/feature_cata_hort_pets.png', 'The Wulez Pet Shop', 'page_name', -1, 'buyablepets', 0, '');
+
+ALTER TABLE `catalog_featured_pages`
+  ADD PRIMARY KEY (`id`);
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
