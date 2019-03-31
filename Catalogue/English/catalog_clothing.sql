@@ -260,7 +260,17 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (244, 'clothing_wetsuit', '3678,3679'),
 (245, 'clothing_sailortop', '3682,3683'),
 (246, 'clothing_flippers', '3687'),
-(247, 'clothing_r19_messybangs', '3790');
+(247, 'clothing_r19_messybangs', '3790'),
+(248, 'clothing_r19_forrestcrown', '3776'),
+(249, 'clothing_ribboncurls', '3777,3778'),
+(250, 'clothing_archerhat', '3765'),
+(251, 'clothing_madhat', '3766'),
+(252, 'clothing_mushroomhat', '3775'),
+(253, 'clothing_petaldress', '3769,3770'),
+(254, 'clothing_wolfmask', '3771'),
+(255, 'clothing_flowerponytail', '3774'),
+(256, 'clothing_r19_fox', '3772,3773'),
+(257, 'clothing_leafhair', '3768');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);

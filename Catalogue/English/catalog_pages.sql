@@ -442,7 +442,9 @@ INSERT INTO `catalog_pages` (`id`, `parent_id`, `caption_save`, `caption`, `icon
 (9125249, 912496, 'puppypresent', 'RARE Puppy Present', 1, 42, '1', '1', 6, '0', 4, 'default_3x3', 'catalog_rares_headline1_br', 'val19_puppy', '', 'Is that special someone a dog lover? Well, you''ve just found the perfect present. This item is rare - don''t miss out.', '', '', '', '0', '', 0),
 (9125250, 912496, 'mar19new', 'RARE Messy Bang Hairstyle', 1, 42, '1', '1', 6, '0', 4, 'default_3x3', 'catalog_rares_headline1_en', 'band19_messbangs', '', 'One of 2018''s standout hairstyles, now available as a rare item inside Habbo. Note: this hairstyle is unisex.', '', '', '', '0', '', 0),
 (9125251, 912389, 'march19new', 'Basement Band Kit', 1, 257, '1', '1', 1, '0', 28, 'default_3x3', 'music_header', 'march19_new', '', 'Everything you need to start your own basement band is right here. Three collectible ''Basement Band'' instruments are availabe in the Catalogue NOW!', '', '', '', '0', '', 0),
-(9125252, 912409, 'eastercomeback19', 'Easter Comeback', 1, 25, '1', '1', 1, '0', 4, 'default_3x3', 'easter13_header', 'oldeaster17', '', 'Easter is almost upon us and this year its bringing flowers, teleports and, of course, eggs with it! From the floral-inspired Flower Power lines, to the adorable bunnies and ducks to fill your rooms - Get egg-cited!', '', '', '', '0', '', 0);
+(9125252, 912409, 'eastercomeback19', 'Easter Comeback', 1, 25, '1', '1', 1, '0', 4, 'default_3x3', 'easter13_header', 'oldeaster17', '', 'Easter is almost upon us and this year its bringing flowers, teleports and, of course, eggs with it! From the floral-inspired Flower Power lines, to the adorable bunnies and ducks to fill your rooms - Get egg-cited!', '', '', '', '0', '', 0),
+(9125253, 912439, '', 'Easter 2019', 1, 42, '1', '1', 6, '0', 1, 'default_3x3', '', '', '', '', '', '', '', '0', '', 0),
+(9125254, 912439, '', 'Easter Chests 2019', 1, 42, '1', '1', 6, '0', 1, 'default_3x3', '', '', '', '', '', '', '', '0', '', 0);
 
 ALTER TABLE `catalog_pages`
   ADD PRIMARY KEY (`id`);

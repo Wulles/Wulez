@@ -28,7 +28,7 @@ INSERT INTO `catalog_featured_pages` (`slot_id`, `image`, `caption`, `type`, `ex
 (2, 'catalogue/feature_cata/feature_cata_hort_pets.png', 'The Wulez Pet Shop', 'page_name', -1, 'buyablepets', 0, '');
 
 ALTER TABLE `catalog_featured_pages`
-  ADD PRIMARY KEY (`id`);
+  ADD PRIMARY KEY (`slot_id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
