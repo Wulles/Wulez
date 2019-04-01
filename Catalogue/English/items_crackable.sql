@@ -16,8 +16,7 @@ CREATE TABLE IF NOT EXISTS `items_crackable` (
   `prizes` varchar(1500) NOT NULL COMMENT 'Used in the format of item_id:chance;item_id_2:chance. item_id must be id in the items_base table. Default value for chance is 100.',
   `achievement_tick` varchar(64) NOT NULL,
   `achievement_cracked` varchar(64) NOT NULL,
-  `required_effect` int(3) NOT NULL DEFAULT '0',
-  PRIMARY KEY (`item_id`)
+  `required_effect` int(3) NOT NULL DEFAULT '0'
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 INSERT INTO `items_crackable` (`item_id`, `count`, `prizes`, `achievement_tick`, `achievement_cracked`, `required_effect`) VALUES
