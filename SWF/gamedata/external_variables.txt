@@ -111,8 +111,8 @@ disclaimer.credit_spending.enabled=false
 duckets.enabled=true
 duckets.promo.enabled=false
 duckets.upper_limit=1300
-dynamic.download.name.template=%revision%/hh_furni_xx_%typeid%.cct
-dynamic.download.samples.template=%revision%/%typeid%.cct
+dynamic.download.name.template=hh_furni_xx_%typeid%.cct
+dynamic.download.samples.template=%typeid%.cct
 dynamic.download.url=http://localhost/dcr/hof_furni/
 email.verification.url=http://localhost/profile?tab=3
 embed.showInRoomInfo=true
