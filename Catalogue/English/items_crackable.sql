@@ -11,6 +11,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 CREATE TABLE IF NOT EXISTS `items_crackable` (
+  `id` int(11) NOT NULL,
   `item_id` int(11) NOT NULL,
   `count` int(11) NOT NULL,
   `prizes` varchar(1500) NOT NULL COMMENT 'Used in the format of item_id:chance;item_id_2:chance. item_id must be id in the items_base table. Default value for chance is 100.',
@@ -34,7 +35,7 @@ INSERT INTO `items_crackable` (`id`, `item_id`, `count`, `prizes`, `achievement_
 (8, 310268, 2, '310247:50;310251:50;310248:50;310255:50', '', '', 186);
 
 ALTER TABLE `items_crackable`
-  ADD PRIMARY KEY (`item_id`);
+  ADD PRIMARY KEY (`id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
