@@ -25,6 +25,11 @@
   <lib id="acc_print_U_skull" revision="56277">
     <part id="2530" type="cp"/>
   </lib>
+  <lib id="hair_U_grandetail" revision="64846">
+    <part id="3411" type="hr"/>
+    <part id="3411" type="hrb"/>
+    <part id="3412" type="hr"/>
+  </lib>
   <lib id="shoes_F_thicksole" revision="32796">
     <part id="2293" type="sh"/>
     <part id="2294" type="sh"/>
@@ -239,7 +244,7 @@
   <lib id="hat_U_warmask" revision="59908">
     <part id="2790" type="ha"/>
   </lib>
-  <lib id="acc_chest_U_bohobackpack" revision="64788">
+  <lib id="acc_chest_U_bohobackpack" revision="64839">
     <part id="3392" type="ca"/>
     <part id="3393" type="ca"/>
     <part id="3394" type="ca"/>
@@ -328,6 +333,9 @@
     <part id="2122" type="cc"/>
     <part id="2122" type="lc"/>
     <part id="2122" type="rc"/>
+  </lib>
+  <lib id="face_U_bohogems" revision="64846">
+    <part id="3417" type="ey"/>
   </lib>
   <lib id="acc_eye_U_gold1" revision="62979">
     <part id="2974" type="ea"/>
@@ -528,7 +536,7 @@
   <lib id="acc_eye_U_hipsterglasses" revision="61363">
     <part id="2825" type="ea"/>
   </lib>
-  <lib id="acc_waist_U_bumbag" revision="64808">
+  <lib id="acc_waist_U_bumbag" revision="64854">
     <part id="3384" type="wa"/>
     <part id="3385" type="wa"/>
     <part id="3386" type="wa"/>
@@ -665,7 +673,7 @@
     <part id="2553" type="cc"/>
     <part id="2554" type="cc"/>
   </lib>
-  <lib id="shirt_M_flowingshirt" revision="64810">
+  <lib id="shirt_M_flowingshirt" revision="64816">
     <part id="3404" type="ch"/>
     <part id="3404" type="ls"/>
     <part id="3404" type="rs"/>
@@ -1961,6 +1969,10 @@
     <part id="2278" type="ha"/>
     <part id="2279" type="ha"/>
   </lib>
+  <lib id="hair_U_rainbowhair" revision="64846">
+    <part id="3413" type="hr"/>
+    <part id="3413" type="hrb"/>
+  </lib>
   <lib id="shoes_U_bird" revision="56282">
     <part id="2590" type="sh"/>
   </lib>
@@ -2270,6 +2282,9 @@
   <lib id="acc_waist_U_armybelt" revision="26175">
     <part id="2119" type="wa"/>
   </lib>
+  <lib id="face_U_bohopaint" revision="64846">
+    <part id="3420" type="fc"/>
+  </lib>
   <lib id="trousers_U_kimono2" revision="56797">
     <part id="2618" type="lg"/>
   </lib>
@@ -2386,6 +2401,11 @@
   <lib id="trousers_U_feather" revision="50539">
     <part id="2360" type="lg"/>
     <part id="2361" type="lg"/>
+  </lib>
+  <lib id="acc_face_U_flowerbeard" revision="64856">
+    <part id="3414" type="fa"/>
+    <part id="3415" type="fa"/>
+    <part id="3416" type="fa"/>
   </lib>
   <lib id="hat_U_gentcap" revision="63958">
     <part id="3154" type="ha"/>
@@ -2726,7 +2746,7 @@
   <lib id="shoes_U_cladyshoes" revision="61119">
     <part id="2805" type="sh"/>
   </lib>
-  <lib id="shirt_F_petaldress" revision="64665">
+  <lib id="shirt_F_petaldress" revision="64864">
     <part id="3320" type="ch"/>
     <part id="3320" type="ls"/>
     <part id="3320" type="rs"/>
@@ -2909,7 +2929,7 @@
   <lib id="hat_U_horse" revision="62990">
     <part id="2965" type="ha"/>
   </lib>
-  <lib id="shirt_F_flowingshirt" revision="64810">
+  <lib id="shirt_F_flowingshirt" revision="64816">
     <part id="3405" type="ch"/>
     <part id="3405" type="ls"/>
     <part id="3405" type="rs"/>
@@ -2940,7 +2960,7 @@
     <part id="3018" type="hrb"/>
     <part id="3019" type="hr"/>
   </lib>
-  <lib id="acc_chest_U_bohobag" revision="64808">
+  <lib id="acc_chest_U_bohobag" revision="64848">
     <part id="3387" type="ca"/>
     <part id="3388" type="ca"/>
   </lib>
@@ -3872,7 +3892,7 @@
     <part id="5" type="ea"/>
     <part id="6" type="ea"/>
   </lib>
-  <lib id="hh_human_item" revision="64810">
+  <lib id="hh_human_item" revision="64851">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -4055,6 +4075,11 @@
     <part id="207" type="ri"/>
     <part id="208" type="ri"/>
     <part id="209" type="ri"/>
+    <part id="210" type="ri"/>
+    <part id="211" type="ri"/>
+    <part id="212" type="ri"/>
+    <part id="213" type="ri"/>
+    <part id="214" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_body" revision="38955">
