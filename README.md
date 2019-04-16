@@ -12,7 +12,7 @@ Wulez is a project of Catalogue and SWF, totally based on the original servers o
 
 > Project started in 1th November 2018.
 
-> Currently for Arcturus 1.16.
+> Currently for Arcturus 1.17.
 
 > Currently only the English version will be available and worked, soon other languages.
 
