@@ -22,11 +22,11 @@ CREATE TABLE `achievements_talents` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 INSERT INTO `achievements_talents` (`id`, `type`, `level`, `achievement_ids`, `achievement_levels`, `reward_furni`, `reward_perks`, `reward_badges`) VALUES
-(1, 'citizenship', 0, '1705', '1', '31179', '', ''),
-(2, 'citizenship', 1, '467,527,517,469', '1,1,1,1', '31179', '', ''),
-(3, 'citizenship', 2, '517', '1', '31179', '', ''),
-(4, 'citizenship', 3, '', '', '31179', 'TRADE', ''),
-(5, 'citizenship', 4, '', '', '31179', 'CITIZEN', '');
+(1, 'citizenship', 0, '49', '1', '31179', '', ''),
+(2, 'citizenship', 1, '22,50,76,337', '1,1,1,1', '31179', '', ''),
+(3, 'citizenship', 2, '29,50,76', '1,2,2', '31179', '', ''),
+(4, 'citizenship', 3, '29,50,357', '2,3,1', '31179', 'TRADE', ''),
+(5, 'citizenship', 4, '', '', '31179,74475', 'CITIZEN', '');
 
 ALTER TABLE `achievements_talents`
   ADD PRIMARY KEY (`id`);
