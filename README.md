@@ -1,8 +1,7 @@
-> Help me to make my computer still breathing
+## Wulez r2 - A project.
 
 * [Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lhdsa@icloud.com&lc=US&item_name=Help+me+to+get+new+computer.&no_note=0&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
-
-* [Download the project](https://github.com/Wulles/Wulez/archive/master.zip).
+* [Download the Wulez project](https://github.com/Wulles/Wulez/archive/master.zip).
 * Arcturus WikiHome [Download Arcturus](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
 
 <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/catal_fp_pic4.gif" align="right">
@@ -12,13 +11,14 @@ Wulez is a project of Catalogue and SWF, totally based on the original servers o
 
 > Project started in 1th November 2018.
 
-> Currently for Arcturus 1.17.
+> First release, 1th November 2018.
+> Last release, 1th November 2018.
 
-> Currently only the English version will be available and worked, soon other languages.
+> Currently for Arcturus 1.17.
 
 *It is a free and open source project, you can make changes to your server on your computer.*
 
-> *Note: SWF archives are separated, will only be released on another platform(mega.nz), once the whole swf is ready and up-to-date.*
+> *Note: The SWF only be released when everything is ready.*
 
 ### Contact and Suport
 
