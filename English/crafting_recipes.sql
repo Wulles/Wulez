@@ -31,13 +31,19 @@ INSERT INTO `crafting_recipes` (`id`, `product_name`, `achievement`, `reward`, `
 (7, 'clothing_brownglasses', 'InfectedLab', 439988, 0, '1', '0', '0'),
 (8, 'clothing_shortcurlhair', 'InfectedLab', 4310042, 0, '1', '0', '0'),
 (9, 'clothing_sideponytail', 'InfectedLab', 4310017, 0, '1', '0', '0'),
-(10, 'clothing_vintagejacket', 'InfectedLab', 4310014, 0, '1', '0', '0');
+(10, 'clothing_vintagejacket', 'InfectedLab', 4310014, 0, '1', '0', '0'),
+(11, 'clothing_harajukuhair', 'Tokyo', 29936, 0, '1', '0', '0'),
+(12, 'clothing_harajukubow', 'Tokyo', 29926, 0, '1', '0', '0'),
+(13, 'clothing_sakurajacket', 'Tokyo', 29899, 0, '1', '0', '0'),
+(14, 'clothing_botface', 'Tokyo', 29932, 0, '1', '0', '0'),
+(15, 'clothing_animehair', 'Tokyo', 29884, 0, '1', '0', '0'),
+(16, 'clothing_dragonplushhat', 'Tokyo', 29903, 0, '1', '0', '0');
 
 ALTER TABLE `crafting_recipes`
   ADD PRIMARY KEY (`id`);
   
 ALTER TABLE `crafting_recipes`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

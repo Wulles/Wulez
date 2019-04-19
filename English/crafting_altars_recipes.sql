@@ -26,13 +26,19 @@ INSERT INTO `crafting_altars_recipes` (`id`, `altar_id`, `recipe_id`) VALUES
 (7, 4310020, 7),
 (8, 4310020, 8),
 (9, 4310020, 9),
-(10, 4310020, 10);
+(10, 4310020, 10),
+(11, 29924, 11),
+(12, 29924, 12),
+(13, 29924, 13),
+(14, 29924, 14),
+(15, 29924, 15),
+(16, 29924, 16);
 
 ALTER TABLE `crafting_altars_recipes`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `crafting_altars_recipes`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

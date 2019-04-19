@@ -43,13 +43,33 @@ INSERT INTO `crafting_recipes_ingredients` (`id`, `recipe_id`, `item_id`, `amoun
 (23, 9, 4310015, 2),
 (24, 10, 4310037, 1),
 (25, 10, 4310034, 5),
-(26, 10, 4310015, 2);
+(26, 10, 4310015, 2),
+(27, 11, 29883, 2),
+(28, 11, 29882, 2),
+(29, 12, 29902, 2),
+(30, 12, 29905, 2),
+(31, 13, 29889, 2),
+(32, 13, 29917, 2),
+(33, 14, 29921, 2),
+(34, 14, 29935, 2),
+(35, 15, 29918, 2),
+(36, 15, 29894, 2),
+(37, 16, 29905, 1),
+(38, 16, 29902, 1),
+(39, 16, 29918, 1),
+(40, 16, 29882, 1),
+(41, 16, 29894, 1),
+(42, 16, 29883, 1),
+(43, 16, 29935, 1),
+(44, 16, 29921, 1),
+(45, 16, 29889, 1),
+(46, 16, 29917, 1);
 
 ALTER TABLE `crafting_recipes_ingredients`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `crafting_recipes_ingredients`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=47;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

@@ -275,13 +275,18 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (259, 'clothing_messycurls', '3791'),
 (260, 'clothing_piglethat', '3767'),
 (261, 'clothing_rippedjeans2', '3787'),
-(262, 'clothing_topbuttonshirt', '3792,3793');
+(262, 'clothing_topbuttonshirt', '3792,3793'),
+(263, 'clothing_r18_antlers', '3732'),
+(264, 'clothing_r18_hyggehair', '3731'),
+(265, 'clothing_r18_dungarees', '3728,3729'),
+(266, 'clothing_goldpack2', '3574,3575,3576,3577,3578,3579,3580'),
+(267, 'clothing_goldpack3', '3639,3640,3641,3642,3643,3644,3645');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=247;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=267;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
