@@ -11,9 +11,11 @@ Wulez is a project of Catalogue and SWF, totally based on the original servers o
 
 > Project started in 1th, November 2016.
 
-> First release, 19th, Jun 2018.
+> First release 19th, Jun 2018.
 
-> Last release, 28th, April 2019.
+> Last release 28th, April 2019.
+
+> R3 expected for 15th, July 2019.
 
 > Currently for Arcturus 1.17.
 
