@@ -280,13 +280,31 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (264, 'clothing_r18_hyggehair', '3731'),
 (265, 'clothing_r18_dungarees', '3728,3729'),
 (266, 'clothing_goldpack2', '3574,3575,3576,3577,3578,3579,3580'),
-(267, 'clothing_goldpack3', '3639,3640,3641,3642,3643,3644,3645');
+(267, 'clothing_goldpack3', '3639,3640,3641,3642,3643,3644,3645'),
+(268, 'clothing_loyaltycrown_V', '3655'),
+(269, 'clothing_loyaltycrown_X', '3656'),
+(270, 'clothing_loyaltycrown_II', '3654'),
+(271, 'clothing_r17_weddingdress', '3563'),
+(272, 'clothing_r17_weddingset', '3563,3553'),
+(273, 'clothing_r17_wedveil', '3553'),
+(274, 'clothing_r18_goldpack4', '3749,3750,3751,3752,3753,3754,3755'),
+(275, 'clothing_r17_chicken', '3570'),
+(276, 'clothing_r17_cow', '3571'),
+(277, 'clothing_r17_horse', '3567'),
+(278, 'clothing_featherflower', '3627'),
+(279, 'clothing_buttonpants', '3626'),
+(280, 'clothing_r17_goldfeatherflower', '3628'),
+(281, 'clothing_ruffleshirt', '3636,3637'),
+(282, 'clothing_tophat', '3632'),
+(283, 'clothing_dress', '3629,3630'),
+(284, 'clothing_tailedcoat', '3634,3635'),
+(285, 'clothing_sasquatchmask', '3638');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=267;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=286;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
