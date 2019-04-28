@@ -11,17 +11,15 @@ Wulez is a project of Catalogue and SWF, totally based on the original servers o
 
 > Project started in 1th, November 2016.
 
-> First release 19th, Jun 2018. *(r1)*
+> Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Last release 28th, April 2019. *(r2)*
-
-> Next release expected for 15th, July 2019. *(r3)*
-
-> Currently for Arcturus 1.17.
+> Currently work on Arcturus 1.12,13,14,15,16 and 17.
 
 *It is a free and open source project, you can make changes to your server on your computer.*
 
-> *Note: The SWF only be released when everything is ready.*
+*Other languages are plans for a future, a near future.*
+
+> *Note: The SWF only be released on Ragezone*
 
 ### Contact and Suport
 
