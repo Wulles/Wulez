@@ -1,15 +1,4 @@
 DROP TABLE IF EXISTS `catalog_clothing`;
-
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
-SET time_zone = "+00:00";
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
 CREATE TABLE `catalog_clothing` (
   `id` int(11) NOT NULL,
   `name` varchar(75) NOT NULL,
@@ -309,15 +298,22 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (293, 'clothing_herohelmet', '3623'),
 (294, 'clothing_legarmour', '3607'),
 (295, 'clothing_r17_hweencrown', '3612'),
-(296, 'clothing_shoearmour', '3611');
+(296, 'clothing_shoearmour', '3611'),
+(297, 'clothing_animehair', '3699'),
+(298, 'clothing_harajukuhair', '3705'),
+(299, 'clothing_sakurajacket', '3696,3697'),
+(300, 'clothing_dragonplushhat', '3701'),
+(301, 'clothing_cuteglasses', '3698'),
+(302, 'clothing_shogunhelmet', '3694'),
+(303, 'clothing_r18_catbag', '3702'),
+(304, 'clothing_r18_kitsunemask', '3700'),
+(305, 'clothing_harajukubow', '3703'),
+(306, 'clothing_tutu', '3695'),
+(307, 'clothing_botface', '3704');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=297;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=308;
 COMMIT;
-
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
