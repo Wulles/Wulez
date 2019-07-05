@@ -1,4 +1,4 @@
-## Wulez r2 - A project.                          (Easter Edition)
+## Wulez r3 - A project.                          (Pride Edition, July 2019.)
 
 * [Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lhdsa@icloud.com&lc=US&item_name=Help+me+to+get+new+computer.&no_note=0&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
 * [Download the Wulez project](https://github.com/Wulles/Wulez/archive/master.zip).
@@ -7,13 +7,22 @@
 <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/catal_fp_pic4.gif" align="right">
 
 ### About Wulez
+
 Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally based on the original servers of the Habbo [EN](https://habbo.com/), with the intention of providing to those who use, the best of the original content, without errors, thus having everything fully functional and of the best quality, other languages are plans for a future, a near future.
 
 > Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Currently work on Arcturus 1.12, 13, 14, 15, 16 and 17.
+> Currently work on Arcturus 1.12, 13, 14, 15, 16, 17, 18 and 19.
 
-> Last update: *Special Easter Edition* 28/04/2019, 4:40 P.M - [See the images](https://imgur.com/a/EXIm7hK).
+> Last update: *Wulez r3 PRIDE Edition* soon.
+
+### Custom WIREDS
+
+By a small slip of mine, I did not add some missing things in r2, so I temporarily separated.
+
+> This is temporary, it will be back on r3.
+
+* [Click here to Download missing custom wireds](https://github.com/Wulles/Wulez/tree/master/Custom%20Wireds).
 
 ### SWF Links
 
@@ -31,7 +40,7 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 ### Contact and Suport
 
-> Discord: Wulles#2800
+> Discord: Feroz#2800
 
 > For issues, you can tell me on my discord or you can create a Issue in this Github.
 
