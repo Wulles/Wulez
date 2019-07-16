@@ -433,11 +433,15 @@ INSERT INTO `catalog_pages` (`id`, `parent_id`, `page_layout`, `caption_save`, `
 (9125283, 912496, 'default_3x3', 'inflatables19', 'Collectible RARE Inflatables', 1, 42, 6, 4, 0, '1', '1', '0', '0', '', 'pride19_rainbowfloat', '', 'This month, we\'re releasing four rare inflatables! These are special: they stack together to create one huge furni.', '', '', '', ''),
 (9125284, 912496, 'default_3x3', 'inflatables19', 'Collectible RARE Inflatables', 1, 42, 6, 4, 0, '1', '1', '0', '0', '', 'pride19_rainbowfloat', '', 'This month, we\'re releasing four rare inflatables! These are special: they stack together to create one huge furni.', '', '', '', ''),
 (9125285, 912496, 'default_3x3', 'inflatables19', 'Collectible RARE Inflatables', 1, 42, 6, 4, 0, '1', '1', '0', '0', '', 'pride19_rainbowfloat', '', 'This month, we\'re releasing four rare inflatables! These are special: they stack together to create one huge furni.', '', '', '', ''),
-(9125286, 912496, 'default_3x3', 'inflatables19', 'Collectible RARE Inflatables', 1, 42, 6, 4, 0, '1', '1', '0', '0', '', 'pride19_rainbowfloat', '', 'This month, we\'re releasing four rare inflatables! These are special: they stack together to create one huge furni.', '', '', '', '');
+(9125286, 912496, 'default_3x3', 'inflatables19', 'Collectible RARE Inflatables', 1, 42, 6, 4, 0, '1', '1', '0', '0', '', 'pride19_rainbowfloat', '', 'This month, we\'re releasing four rare inflatables! These are special: they stack together to create one huge furni.', '', '', '', ''),
+(9125287, 9125231, 'default_3x3', 'seashellsfurnis', 'Seashells Gifts', 1, 280, 6, 5, 0, '1', '1', '0', '0', 'catalog_shells_header', 'catalog_gifts2_teaser1', '', 'Use your Shells to buy these limited Gifts!', '', 'Choose a item:', '', ''),
+(9125288, 9125231, 'default_3x3', '', 'Credit Furni', 1, 146, 6, 1, 0, '1', '1', '0', '0', 'catalog_bank_headline1', 'catalog_bank_teaser', '', 'Habbo Exchange is where you can convert your Credits into a tradable currency. You can then use this currency to trade for Furni or just show off your riches in your room.', '', '', '', ''),
+(9125289, 912439, 'default_3x3', 'greek19', 'Greek 2019', 1, 1, 6, 1, 0, '1', '1', '0', '0', '', '', '', '', '', '', '', ''),
+(9125290, 9125213, 'default_3x3', 'pinatas', 'Piñatas', 1, 189, 6, 1, 0, '1', '1', '0', '0', 'catalog_header_pinata', 'catalog_teaser_pinata', '', 'The fun filled, paper covered rare boxes are back...with even more to win! Each colourful piñatas contains 1 SUPER COOL rare, in one of 3 HOT colors! You choose the rare, the color is a surprise! Some colors are more common than others. To open your piñata use the Piñata stick! These are only sale for a limited time - don\'t', '', '', '', '');
 
 ALTER TABLE `catalog_pages`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_pages`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9125287;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9125291;
 COMMIT;
