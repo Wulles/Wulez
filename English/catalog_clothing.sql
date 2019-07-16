@@ -313,11 +313,17 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (308, 'clothing_r19_comedymask', '3815'),
 (309, 'clothing_r19_tragedymask', '3816'),
 (310, 'clothing_r19_minotaurhorns', '3820'),
-(311, 'clothing_r19_medusa', '3819');
+(311, 'clothing_r19_medusa', '3819'),
+(312, 'clothing_r19_celestialdress', '3817,3818'),
+(313, 'clothing_zebratop', '3839,3840'),
+(314, 'clothing_nt_zebratop', '3839,3840'),
+(315, 'clothing_croppedjumper', '3837,3838'),
+(316, 'clothing_layeredlongskirt', '3842'),
+(317, 'clothing_longmohawk', '3841');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=312;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=318;
 COMMIT;
