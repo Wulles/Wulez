@@ -12,7 +12,7 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Currently work on Arcturus 1.12, 13, 14, 15, 16, 17, 18 and 19.
+> Currently work Since Arcturus 1.12, 13, 14, 15, 16, 17, 18, 19 and 20.
 
 > Last update: *Wulez r3 PRIDE Edition* soon.
 
