@@ -49,4 +49,4 @@ By a small slip of mine, I did not add some missing things in r2, so I temporari
 * Habbo, of course.
 * Wesley, Arcturus Project.
 * Me, Wulles, Hensa, Wulez Project.
-* Abbas, Xavi, Benjamin, Saulol, PauloYugi and LuscasLeo, to old Wulez Project.
+* Xavi, Benjamin, Saulol, PauloYugi and LuscasLeo, to old Wulez(Wual SWF) Project.
