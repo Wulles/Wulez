@@ -11,4 +11,6 @@ UPDATE `emulator_settings` SET `value` = '600' WHERE `emulator_settings`.`key` =
 
 INSERT INTO `emulator_settings` (`key`, `value`) VALUES
 ('xmas14_santateller.message.bubble', '36'),
-('xmas14_santateller.message.count', '12');
+('xmas14_santateller.message.count', '12'),
+('jungle_c16_radio.message.bubble', '38'),
+('jungle_c16_radio.message.count', '5');

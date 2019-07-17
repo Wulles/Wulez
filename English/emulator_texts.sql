@@ -10,4 +10,9 @@ INSERT INTO `emulator_texts` (`key`, `value`) VALUES
 ('xmas14_santateller.message.9', 'Or is that just my eyes?!This seashell is whispering sweet nothings in my ear. oh, its got a crab inside!'),
 ('xmas14_santateller.message.10', 'Be the builders block.'),
 ('xmas14_santateller.message.11', 'What if life isnt all about whos around it.'),
-('xmas14_santateller.message.12', 'Its not about whats under the tree, its about whos around it.');
+('xmas14_santateller.message.12', 'Its not about whats under the tree, its about whos around it.'),
+('jungle_c16_radio.message.1', 'News - piccolo is rumoured to have quit habbo to travel the world! Its just a rumour at the moment...'),
+('jungle_c16_radio.message.2', 'Sure to check out this weeks edition of jungle survival tips.'),
+('jungle_c16_radio.message.3', 'Warning for all those habbos stranded in the jungle!'),
+('jungle_c16_radio.message.4', 'We heard piccolo got lost in the jungle and remains there to this day...'),
+('jungle_c16_radio.message.5', 'Frank. hes looking 100% fresh in his survival kit today, habbos!');
