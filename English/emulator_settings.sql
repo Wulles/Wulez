@@ -10,6 +10,8 @@ UPDATE `emulator_settings` SET `value` = '300' WHERE `emulator_settings`.`key` =
 UPDATE `emulator_settings` SET `value` = '600' WHERE `emulator_settings`.`key` = 'hotel.roomuser.idle.cycles.kick';
 
 INSERT INTO `emulator_settings` (`key`, `value`) VALUES
+('pirate_parrot.message.bubble', '28'),
+('pirate_parrot.message.count', '6'),
 ('xmas14_santateller.message.bubble', '36'),
 ('xmas14_santateller.message.count', '12'),
 ('jungle_c16_radio.message.bubble', '38'),
