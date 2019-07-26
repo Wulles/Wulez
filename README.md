@@ -1,8 +1,8 @@
 ## Wulez r3 - A project.                          (Pride Edition, July 2019.)
 
-* [Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lhdsa@icloud.com&lc=US&item_name=Help+me+to+get+new+computer.&no_note=0&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
 * [Download the Wulez project](https://github.com/Wulles/Wulez/archive/master.zip).
-* [Arcturus WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
+* [Arcturus Original WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
+* [Arcturus Morningstar WikiHome and Download](https://git.krews.org/morningstar/Arcturus-Community/releases).
 
 <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/catal_fp_pic4.gif" align="right">
 
@@ -12,7 +12,7 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Currently work Since Arcturus 1.12, 13, 14, 15, 16, 17, 18, 19 and 20.
+> Currently work Since Arcturus 1.12, 13, 14, 15, 16, 17, 18, 19, 20, and Morningstar 2.1.1.
 
 > Last update: *Wulez r3 PRIDE Edition* soon.
 
@@ -50,3 +50,4 @@ By a small slip of mine, I did not add some missing things in r2, so I temporari
 * Wesley, Arcturus Project.
 * Me, Wulles, Hensa, Wulez Project.
 * Xavi, Benjamin, Saulol, PauloYugi and LuscasLeo, to old Wulez(Wual SWF) Project.
+* John, Morningstar.
