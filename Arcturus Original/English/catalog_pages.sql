@@ -350,7 +350,7 @@ INSERT INTO `catalog_pages` (`id`, `parent_id`, `page_layout`, `caption_save`, `
 (912483, 912496, 'default_3x3', '', 'NOVAS Caixa de Cartolas Festivas 2017!', 1, 42, 6, 5, 0, '1', '1', '0', '0', 'catalog_rares_headline1_br', '2017_party_hat', '2017_party_hat', 'Este ano, depois do grande sucesso dos ChapÃƒÂ©us de Festa, trouxemos seis NOVAS Cartolas Festivas. Escolha uma cor para celebrar a chegada de 2017!', '', '', '', ''),
 (912484, 912496, 'default_3x3', '', 'Raro LÃƒÂ¢mpada do DragÃƒÂ£o de Fogo', 1, 42, 6, 3, 0, '1', '1', '0', '0', 'catalog_rares_headline1_br', 'Fire_dragon_lamp', 'firedragonlamp', 'DisponÃƒÂ­vel atÃƒÂ© 31/12!', '', '', '', ''),
 (912485, 14, 'single_bundle', '', 'Gnomes', 1, 200, 1, 1, 0, '1', '1', '0', '0', 'catalog_header_gnomes', 'catalog_teaser_gnome', '', 'Give a Gnome a home. If you do, it will reward you with loads of fun. Watch it sit. Stand. Walk. It can even change states on your furni. Amazing creatures!', '', '<a href=\"event:habbopages/gnomes\">Click here</a> to learn more about Gnomes and see the various styles and rarity.', '', ''),
-(9125256, 912393, 'default_3x3', 'staffclothings', 'Clothings', 1, 74, 6, 6, 0, '1', '1', '0', '0', '', '', '', '', '', '', '', ''),
+(9125256, 912393, 'default_3x3', 'staffclothings', 'Clothings', 1, 74, 6, 6, 0, '1', '1', '0', '0', '', '', '', 'Here you will find all Rare clothings, these clothings aren\'t in the public part of the Shop.', '', 'Choose a outfit.', '', ''),
 (912487, 912455, 'default_3x3', '', 'Wulles.Aloca', 1, 2, 6, 1, 0, '1', '1', '0', '0', 'habboclub', 'catalog_hc_teaser', '', 'Wulles club comes with many bonuses! More hair and clothes choices, more hair and clothes colours to come from, new room layouts, new dances, and much, much more!', '', '', '', ''),
 (912488, 912496, 'default_3x3', '', 'Raro BalÃƒÂ£o Galo', 1, 42, 6, 4, 0, '1', '1', '0', '0', 'catalog_rares_headline1_br', 'cny17_rooster', 'balaodogalo', 'Para celebrar o ano do Galo adequadamente', '', '', '', ''),
 (912489, 912392, 'default_3x3', 'tradableboxes', 'HC Tradable Boxes', 1, 99, 1, 5, 0, '1', '1', '0', '0', 'hc2_clubtitle', 'hcbcboxes', '', 'Say hello to tradable HC Boxes! Containing either 14 or 31-day chunks of Habbo Club membership, this type of furni is just perfect for trading', '', '', '', ''),
@@ -437,11 +437,12 @@ INSERT INTO `catalog_pages` (`id`, `parent_id`, `page_layout`, `caption_save`, `
 (9125287, 9125231, 'default_3x3', 'seashellsfurnis', 'Seashells Gifts', 1, 280, 6, 5, 0, '1', '1', '0', '0', 'catalog_shells_header', 'catalog_gifts2_teaser1', '', 'Use your Shells to buy these limited Gifts!', '', 'Choose a item:', '', ''),
 (9125288, 9125231, 'default_3x3', '', 'Credit Furni', 1, 146, 6, 1, 0, '1', '1', '0', '0', 'catalog_bank_headline1', 'catalog_bank_teaser', '', 'Habbo Exchange is where you can convert your Credits into a tradable currency. You can then use this currency to trade for Furni or just show off your riches in your room.', '', '', '', ''),
 (9125289, 912439, 'default_3x3', 'greek19', 'Greek 2019', 1, 1, 6, 1, 0, '1', '1', '0', '0', '', '', '', '', '', '', '', ''),
-(9125290, 9125213, 'default_3x3', 'pinatas', 'Piñatas', 1, 189, 6, 1, 0, '1', '1', '0', '0', 'catalog_header_pinata', 'catalog_teaser_pinata', '', 'The fun filled, paper covered rare boxes are back...with even more to win! Each colourful piñatas contains 1 SUPER COOL rare, in one of 3 HOT colors! You choose the rare, the color is a surprise! Some colors are more common than others. To open your piñata use the Piñata stick! These are only sale for a limited time - don\'t', '', '', '', '');
+(9125290, 9125213, 'default_3x3', 'pinatas', 'Piñatas', 1, 189, 6, 1, 0, '1', '1', '0', '0', 'catalog_header_pinata', 'catalog_teaser_pinata', '', 'The fun filled, paper covered rare boxes are back...with even more to win! Each colourful piñatas contains 1 SUPER COOL rare, in one of 3 HOT colors! You choose the rare, the color is a surprise! Some colors are more common than others. To open your piñata use the Piñata stick! These are only sale for a limited time - don\'t', '', '', '', ''),
+(9125291, 912439, 'default_3x3', '', 'Celestial', 1, 42, 6, 1, 0, '1', '1', '0', '0', '', '', '', '', '', '', '', '');
 
 ALTER TABLE `catalog_pages`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_pages`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9125291;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9125292;
 COMMIT;
