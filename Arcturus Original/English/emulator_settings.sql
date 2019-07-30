@@ -8,6 +8,8 @@ UPDATE `emulator_settings` SET `value` = '10' WHERE `emulator_settings`.`key` = 
 UPDATE `emulator_settings` SET `value` = '230' WHERE `emulator_settings`.`key` = 'catalog.ltd.page.soldout';
 UPDATE `emulator_settings` SET `value` = '300' WHERE `emulator_settings`.`key` = 'hotel.roomuser.idle.cycles';
 UPDATE `emulator_settings` SET `value` = '600' WHERE `emulator_settings`.`key` = 'hotel.roomuser.idle.cycles.kick';
+UPDATE `emulator_settings` SET `value` = '5054332' WHERE `emulator_settings`.`key` = 'monsterplant.seed.item_id';
+UPDATE `emulator_settings` SET `value` = '5054354' WHERE `emulator_settings`.`key` = 'monsterplant.seed_rare.item_id';
 
 INSERT INTO `emulator_settings` (`key`, `value`) VALUES
 ('pirate_parrot.message.bubble', '28'),
