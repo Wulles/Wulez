@@ -1,4 +1,4 @@
-## Wulez r3 - A project.                          (Pride Edition, July 2019.)
+# Wulez
 
 * [Download the Wulez project](https://github.com/Wulles/Wulez/archive/master.zip).
 * [Arcturus Original WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
@@ -12,11 +12,17 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Currently work Since Arcturus 1.12, 13, 14, 15, 16, 17, 18, 19, 20, and Morningstar 2.1.1.
+> Currently work Since Arcturus 1.12, and Since Morningstar 2.
 
-> Last update: *Wulez r3 PRIDE Edition* soon.
+> Last update: *Pastel furnis*.
 
-### Custom WIREDS
+### May be Interesting
+
+All Achievements working in perfect harmony with the Wulez Catalogue.
+
+* [Wulez Achievements](https://github.com/Wulles/Achievements).
+
+### Custom WIREDs
 
 By a small slip of mine, I did not add some missing things in r2, so I temporarily separated.
 
@@ -46,8 +52,8 @@ By a small slip of mine, I did not add some missing things in r2, so I temporari
 
 ### Credits and Acknowledgments <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
 
-* Habbo, of course.
-* Wesley, Arcturus Project.
-* Me, Wulles, Hensa, Wulez Project.
-* Xavi, Benjamin, Saulol, PauloYugi and LuscasLeo, to old Wulez(Wual SWF) Project.
-* John, Morningstar.
+* Habbo.
+* Wulles: Project.
+* Wesley: Arcturus.
+* John: Morningstar.
+* Xavi, Benjamin, Saulol, PauloYugi, LuscasLeo: Old Wule Project(Wual SWF).
