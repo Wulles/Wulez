@@ -30,12 +30,32 @@ INSERT INTO `items_crackable` (`id`, `item_id`, `count`, `prizes`, `achievement_
 (16, 675740, 100, '900251:60;900263:30;900252:10', 'PinataWhacker', 'PinataBreaker', 158, NULL, NULL),
 (17, 675735, 100, '900226:60;900259:30;900222:10', 'PinataWhacker', 'PinataBreaker', 158, NULL, NULL),
 (18, 675778, 100, '900256:60;900257:30;900255:10', 'PinataWhacker', 'PinataBreaker', 158, NULL, NULL),
-(19, 79075, 2, '', '', '', 0, 14, 'hc'),
-(20, 79076, 2, '', '', '', 0, 31, 'hc');
+(19, 9966, 1, '10022:50;9994:50;9971:50;9983:50', '', '', 0, NULL, NULL),
+(20, 10022, 12, '10022:70;9994:50;9971:50;9983:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(21, 9994, 12, '10022:50;9994:70;9971:50;9983:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(22, 9971, 12, '10022:50;9994:50;9971:70;9983:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(23, 9983, 12, '10022:50;9994:50;9971:50;9983:70;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(24, 9970, 1, '9997:50;9965:50;9972:50;10006:50', '', '', 0, NULL, NULL),
+(25, 9997, 12, '9997:70;9965:50;9972:50;10006:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(26, 9965, 12, '9997:50;9965:70;9972:50;10006:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(27, 9972, 12, '9997:50;9965:50;9972:70;10006:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(28, 10006, 12, '9997:50;9965:50;9972:50;10006:70;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(29, 9982, 1, '10017:50;10021:50;9961:50;9986:50', '', '', 0, NULL, NULL),
+(30, 10017, 12, '10017:70;10021:50;9961:50;9986:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(31, 10021, 12, '10017:50;10021:70;9961:50;9986:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(32, 9961, 12, '10017:50;10021:50;9961:70;9986:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(33, 9986, 12, '10017:50;10021:50;9961:50;9986:70;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(34, 10013, 1, '319713:50;319752:50;319726:50;319728:50', '', '', 0, NULL, NULL),
+(35, 319713, 12, '319713:70;319752:50;319726:50;319728:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(36, 319752, 12, '319713:50;319752:70;319726:50;319728:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(37, 319726, 12, '319713:50;319752:50;319726:70;319728:50;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(38, 319728, 12, '319713:50;319752:50;319726:50;319728:70;9969:20', '', 'AdvancedHorticulturist', 192, NULL, NULL),
+(39, 79075, 2, '', '', '', 0, 14, 'hc'),
+(40, 79076, 2, '', '', '', 0, 31, 'hc');
 
 ALTER TABLE `items_crackable`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `items_crackable`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=41;
 COMMIT;
