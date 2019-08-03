@@ -320,11 +320,43 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (315, 'clothing_croppedjumper', '3837,3838'),
 (316, 'clothing_layeredlongskirt', '3842'),
 (317, 'clothing_longmohawk', '3841'),
-(318, 'clothing_r19_rainbowstarjumper', '3788');
+(318, 'clothing_r19_rainbowstarjumper', '3788'),
+(319, 'clothing_shortcut', '3829'),
+(320, 'clothing_loosekimono', '3826,3827'),
+(321, 'clothing_gardenapron', '3824,3825'),
+(322, 'clothing_nt_flowytop', '3836'),
+(323, 'clothing_butterflymask', '3832'),
+(324, 'clothing_r19_butterflydress', '3834,3835'),
+(325, 'clothing_leafmask', '3822'),
+(326, 'clothing_gogglehat', '3823'),
+(327, 'clothing_flowytop', '3836'),
+(328, 'clothing_leafearrings', '3833'),
+(329, 'clothing_r19_featheredcowl', '3830,3831'),
+(330, 'clothing_floralbag', '3828'),
+(331, 'clothing_sprout', '3821'),
+(332, 'clothing_nt_loosekimono', '3826,3827'),
+(333, 'clothing_nt_shortcut', '3829'),
+(334, 'clothing_nt_sprout', '3821'),
+(335, 'clothing_nt_leafearrings', '3833'),
+(336, 'clothing_nt_gardenapron', '3824,3825'),
+(337, 'clothing_halo', '3740'),
+(338, 'clothing_rudolphhat', '3742'),
+(339, 'clothing_poinsettia', '3743'),
+(340, 'clothing_bobblehat', '3745'),
+(341, 'clothing_r18_featherdress', '3747,3748'),
+(342, 'clothing_penguin', '3737'),
+(343, 'clothing_r18_feathercrown', '3734'),
+(344, 'clothing_sideflopped', '3746'),
+(345, 'clothing_snowman', '3741'),
+(346, 'clothing_xmas5', '3735'),
+(347, 'clothing_mittens', '3744'),
+(348, 'clothing_regiment', '3738,3739'),
+(349, 'clothing_treepartyhat', '3736'),
+(350, 'clothing_flipflopsocks', '3621');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=319;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=351;
 COMMIT;
