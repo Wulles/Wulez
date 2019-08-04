@@ -28,7 +28,7 @@ By a small slip of mine, I did not add some missing things in r2, so I temporari
 
 > This is temporary, it will be back on r3.
 
-* [Click here to Download missing custom wireds](https://github.com/Wulles/Wulez/tree/master/Custom%20Wireds).
+* [Click here to Download missing custom wireds](https://github.com/Wulles/Wulez/tree/master/SWF%20Parts/Custom%20Wireds).
 
 ### SWF Links
 
