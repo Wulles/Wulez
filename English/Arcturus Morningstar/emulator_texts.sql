@@ -1,3 +1,9 @@
+UPDATE `emulator_texts` SET `value` = 'Cu cu, cucu, cucu.' WHERE `emulator_texts`.`key` = 'pirate_parrot.message.0';
+UPDATE `emulator_texts` SET `value` = 'Once was a capt whos ship this was, then i came along and mutinied, just so ye better watch where i be swooping.' WHERE `emulator_texts`.`key` = 'pirate_parrot.message.1';
+UPDATE `emulator_texts` SET `value` = 'Ye flying the old jolly bobba, better av the goal to be a real pirate matey!' WHERE `emulator_texts`.`key` = 'pirate_parrot.message.2';
+UPDATE `emulator_texts` SET `value` = 'Ye think im ya friend, keep in mind friends can always betray ye, enemies are the ones that stay the same.' WHERE `emulator_texts`.`key` = 'pirate_parrot.message.3';
+UPDATE `emulator_texts` SET `value` = 'Arr arr arr, dont be silly, we werent talking about ye booti-by... dont give me that look ye scalywag.' WHERE `emulator_texts`.`key` = 'pirate_parrot.message.4';
+
 INSERT INTO `emulator_texts` (`key`, `value`) VALUES
 ('xmas14_santateller.message.0', 'Merry Christmas!'),
 ('xmas14_santateller.message.1', 'Did you know i have a zen filled holiday season.'),
@@ -18,10 +24,5 @@ INSERT INTO `emulator_texts` (`key`, `value`) VALUES
 ('jungle_c16_radio.message.3', 'Warning for all those habbos stranded in the jungle!'),
 ('jungle_c16_radio.message.4', 'We heard piccolo got lost in the jungle and remains there to this day...'),
 ('jungle_c16_radio.message.5', 'Frank. hes looking 100% fresh in his survival kit today, habbos!'),
-('pirate_parrot.message.0', 'Cu cu, cucu, cucu.'),
-('pirate_parrot.message.1', 'Once was a capt whos ship this was, then i came along and mutinied, just so ye better watch where i be swooping.'),
-('pirate_parrot.message.2', 'Ye flying the old jolly bobba, better av the goal to be a real pirate matey!'),
-('pirate_parrot.message.3', 'Ye think im ya friend, keep in mind friends can always betray ye, enemies are the ones that stay the same.'),
-('pirate_parrot.message.4', 'Arr arr arr, dont be silly, we werent talking about ye booti-by... dont give me that look ye scalywag.'),
 ('pirate_parrot.message.5', 'Go bring me a flagon a bubble juice, ye scurvy dog!'),
 ('pirate_parrot.message.6', 'Jones aint got nuttin on me, bucko, ye can bet ye breeches.');

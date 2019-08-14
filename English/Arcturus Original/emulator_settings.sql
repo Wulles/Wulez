@@ -11,9 +11,10 @@ UPDATE `emulator_settings` SET `value` = '600' WHERE `emulator_settings`.`key` =
 UPDATE `emulator_settings` SET `value` = '5054332' WHERE `emulator_settings`.`key` = 'monsterplant.seed.item_id';
 UPDATE `emulator_settings` SET `value` = '5054354' WHERE `emulator_settings`.`key` = 'monsterplant.seed_rare.item_id';
 
+UPDATE `emulator_settings` SET `value` = '28' WHERE `emulator_settings`.`key` = 'pirate_parrot.message.bubble';
+UPDATE `emulator_settings` SET `value` = '6' WHERE `emulator_settings`.`key` = 'pirate_parrot.message.count';
+
 INSERT INTO `emulator_settings` (`key`, `value`) VALUES
-('pirate_parrot.message.bubble', '28'),
-('pirate_parrot.message.count', '6'),
 ('xmas14_santateller.message.bubble', '36'),
 ('xmas14_santateller.message.count', '12'),
 ('jungle_c16_radio.message.bubble', '38'),
