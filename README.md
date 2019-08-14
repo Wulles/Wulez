@@ -25,15 +25,15 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 ### SWF Links
 ```
-* external.variables.txt -            /gamedata/external_variables.txt
-* external.override.variables.txt -   /gamedata/override/external_override_variables.txt
-* external.texts.txt -                /gamedata/external_flash_texts_en.txt
-* external.override.texts.txt -       /gamedata/override/external_flash_override_texts_en.txt
-* avatareditor.promohabbos -          /gamedata/hotlooks.xml
-* external.figurepartlist.txt -       /gamedata/figuredata.xml
-* productdata.load.url -              /gamedata/productdata_en.txt
-* furnidata.load.url -                /gamedata/furnidata.xml
-* base -                              /gordon/PRODUCTION-201904011212-888653470/
+external.variables.txt            /gamedata/external_variables.txt
+external.override.variables.txt   /gamedata/override/external_override_variables.txt
+external.texts.txt                /gamedata/external_flash_texts_en.txt
+external.override.texts.txt       /gamedata/override/external_flash_override_texts_en.txt
+avatareditor.promohabbos          /gamedata/hotlooks.xml
+external.figurepartlist.txt       /gamedata/figuredata.xml
+productdata.load.url              /gamedata/productdata_en.txt
+furnidata.load.url                /gamedata/furnidata.xml
+base                              /gordon/PRODUCTION-201904011212-888653470/
 ```
 > *Note: The Complete SWF only be released on Ragezone! And if you downloaded Wulez SWF from Ragezone, you need open your /gamedata/ and change Localhost to your link/ip on variables and variables override.*
 
