@@ -1336,7 +1336,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (1361, 2961, 'party_beamer', 'party_beamer', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 7, '0', '0', '', 0, 0),
 (1362, 2962, 'party_bardesk', 'party_bardesk', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1363, 2952, 'party_seat', 'party_seat', 1, 1, 1.10, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(1364, 3005, 'xmas08_snowpl', 'xmas08_snowpl', 1, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(1364, 3005, 'xmas08_snowpl', 'xmas08_snowpl', 1, 1, 1.10, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1365, 2977, 'penguin_basic', 'penguin_basic', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1366, 2972, 'xmas08_trph1', 'xmas08_trph1', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1367, 2995, 'penguin_musketeer', 'penguin_musketeer', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -1389,7 +1389,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (1414, 3014, 'ads_cltele', 'ads_cltele', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'teleport', 1, '0', '0', '', 0, 0),
 (1415, 3019, 'ads_clfloor', 'ads_clfloor', 3, 5, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1417, 3020, 'ads_mall_tele', 'ads_mall_tele', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'teleport', 1, '0', '0', '', 0, 0),
-(1418, 3024, 'china_moongt', 'china_moongt', 1, 3, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'gate', 2, '0', '0', '', 0, 0),
+(1418, 3024, 'china_moongt', 'china_moongt', 1, 3, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1419, 3022, 'bolly_lotus_pool', 'bolly_lotus_pool', 2, 2, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (1420, 3025, 'china_ox', 'china_ox', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1422, 3026, 'bolly_petals', 'bolly_petals', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
@@ -2031,7 +2031,6 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (4751, 4751, 'hween12_grabby', 'hween12_grabby', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (4752, 4752, 'hween12_wolf', 'hween12_wolf', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (4753, 4753, 'hween12_strengthtest', 'hween12_strengthtest', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
-(4797, 4797, 'mystery_box', 'mystery_box', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (4823, 4823, 'pet_toy_ball', 'pet_toy_ball', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (4824, 4824, 'pet_waterbottle', 'pet_waterbottle', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (4826, 4826, 'pet_blanket_pink', 'pet_blanket_pink', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
@@ -2125,9 +2124,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (5191, 5191, 'hblooza_guitar4', 'hblooza_guitar4', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (5192, 5192, 'hblooza_guitar2', 'hblooza_guitar2', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (5193, 5193, 'hblooza_pinata2', 'hblooza_pinata2', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
-(5194, 5194, 'hblooza_pinata1', 'hblooza_pinata1', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0);
+(5194, 5194, 'hblooza_pinata1', 'hblooza_pinata1', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
+(5241, 5241, 'pirate_teleport\r\n', 'pirate_teleport\r\n', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'teleport', 1, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(5241, 5241, 'pirate_teleport\r\n', 'pirate_teleport\r\n', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'teleport', 1, '0', '0', '', 0, 0),
 (5242, 5242, 'pirate_poseidon', 'pirate_poseidon', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (5246, 5246, 'pirate_stage_g', 'pirate_stage_g', 2, 2, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0.9,1.8,2.7,3.6', '', 0, 0),
 (5247, 5247, 'pirate_stage3_g', 'pirate_stage3_g', 1, 2, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -2462,9 +2461,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (7902, 7902, 'room_hcl15_djtable', 'room_hcl15_djtable', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (7903, 7903, 'room_wl15_mag1', 'room_wl15_mag1', 1, 1, 0.00, '0', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'vendingmachine', 2, '1069,1068,1070', '0', '', 0, 0),
 (7904, 7904, 'room_wl15_table1', 'room_wl15_table1', 1, 2, 0.40, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
-(7905, 7905, 'room_wl15_ele', 'room_wl15_ele', 2, 1, 0.00, '1', '0', '0', '1', '0', '0', '0', '0', '1', 's', 'default', 3, '0', '0', '', 0, 0);
+(7905, 7905, 'room_wl15_ele', 'room_wl15_ele', 2, 1, 0.00, '1', '0', '0', '1', '0', '0', '0', '0', '1', 's', 'default', 3, '0', '0', '', 0, 0),
+(7906, 7906, 'room_wl15_sink', 'room_wl15_sink', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(7906, 7906, 'room_wl15_sink', 'room_wl15_sink', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (7907, 7907, 'room_wlof15_bed', 'room_wlof15_bed', 1, 3, 1.50, '0', '0', '1', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (7908, 7908, 'room_wl15_teleblock', 'room_wl15_teleblock', 1, 1, 0.00, '0', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (7909, 7909, 'room_wl15_tree', 'room_wl15_tree', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
@@ -2793,9 +2792,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (8420, 8420, 'ktchn15_coffeemaker', 'ktchn15_coffeemaker', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'vendingmachine', 1, '9,8,14,15,6,10,11,12,17,13', '0', '', 0, 0),
 (8421, 8421, 'ktchn_c15_cereal', 'ktchn_c15_cereal', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
 (8422, 8422, 'ktchn_c15_lamp_b', 'ktchn_c15_lamp_b', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
-(8423, 8423, 'ktchn_c15_sink', 'ktchn_c15_sink', 2, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 6, '0', '0', '', 0, 0);
+(8423, 8423, 'ktchn_c15_sink', 'ktchn_c15_sink', 2, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 6, '0', '0', '', 0, 0),
+(8424, 8424, 'ktchn_c15_chair_p', 'ktchn_c15_chair_p', 1, 1, 1.20, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(8424, 8424, 'ktchn_c15_chair_p', 'ktchn_c15_chair_p', 1, 1, 1.20, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (8425, 8425, 'ktchn_c15_lamp_g', 'ktchn_c15_lamp_g', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (8426, 8426, 'ktchn_c15_crn', 'ktchn_c15_crn', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 6, '0', '0', '', 0, 0),
 (8427, 8427, 'ktchn15_cabinet', 'ktchn15_cabinet', 2, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
@@ -3122,9 +3121,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (9037, 9037, 'olympics_c16_nanarack', 'olympics_c16_nanarack', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'vendingmachine', 2, '103', '0', '', 0, 0),
 (9038, 9038, 'olympics_c16_sofa', 'olympics_c16_sofa', 2, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
 (9039, 9039, 'olympics_c16_fitnessduck', 'olympics_c16_fitnessduck', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
-(9040, 9040, 'olympics_c16_chair', 'olympics_c16_chair', 1, 1, 1.40, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0);
+(9040, 9040, 'olympics_c16_chair', 'olympics_c16_chair', 1, 1, 1.40, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
+(9041, 9041, 'olympics_r16_gymfreak', 'olympics_r16_gymfreak', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(9041, 9041, 'olympics_r16_gymfreak', 'olympics_r16_gymfreak', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (9042, 9042, 'olympics_c16_glssdvdr', 'olympics_c16_glssdvdr', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 3, '0', '0', '', 0, 0),
 (9043, 9043, 'olympics_c16_yogamat*6', 'olympics_c16_yogamat*6', 1, 3, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (9044, 9044, 'olympics_c16_yogamat*5', 'olympics_c16_yogamat*5', 1, 3, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
@@ -3450,9 +3449,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (19957, 22, 'avatar_effect22', 'avatar_effect22', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '0', 'e', 'default', 1, '0', '0', '', 0, 0),
 (19958, 19, 'avatar_effect19', 'avatar_effect19', 1, 1, 1.00, '1', '0', '0', '0', '0', '0', '0', '1', '1', 'e', 'default', 1, '0', '0', '', 0, 0),
 (19959, 20, 'avatar_effect20', 'avatar_effect20', 1, 1, 1.00, '1', '0', '0', '0', '0', '0', '0', '1', '1', 'e', 'default', 1, '0', '0', '', 0, 0),
-(19960, 21, 'avatar_effect21', 'avatar_effect21', 1, 1, 1.00, '1', '0', '0', '0', '0', '0', '0', '1', '1', 'e', 'default', 1, '0', '0', '', 0, 0);
+(19960, 21, 'avatar_effect21', 'avatar_effect21', 1, 1, 1.00, '1', '0', '0', '0', '0', '0', '0', '1', '1', 'e', 'default', 1, '0', '0', '', 0, 0),
+(19971, 3328, 'xm09_man_b', 'xm09_man_b', 1, 1, 0.80, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 9, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(19971, 3328, 'xm09_man_b', 'xm09_man_b', 1, 1, 0.80, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 9, '0', '0', '', 0, 0),
 (19972, 3329, 'xm09_man_c', 'xm09_man_c', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 8, '0', '0', '', 0, 0),
 (19973, 3335, 'xm09_table', 'xm09_table', 2, 6, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (19974, 3340, 'xm09_bench', 'xm09_bench', 6, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -3800,9 +3799,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (20607, 4110, 'usva4_lamble', 'usva4_lamble', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (20608, 4111, 'usva3_shelf', 'usva3_shelf', 1, 1, 0.70, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (20609, 4112, 'usva_rug', 'usva_rug', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
-(20610, 4113, 'usva2_table', 'usva2_table', 2, 2, 0.50, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
+(20610, 4113, 'usva2_table', 'usva2_table', 2, 2, 0.50, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(20611, 4114, 'usva_shelf2', 'usva_shelf2', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(20611, 4114, 'usva_shelf2', 'usva_shelf2', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (20612, 4115, 'usva4_sofa', 'usva4_sofa', 2, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (20613, 4116, 'usva_table', 'usva_table', 2, 2, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (20614, 4117, 'usva5_table', 'usva5_table', 2, 2, 0.50, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -4137,9 +4136,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (40035, 4069, 'ads_mpu_300', 'ads_mpu_300', 1, 1, 0.00, '1', '0', '0', '1', '0', '0', '0', '0', '0', 's', 'ads_bg', 1, '0', '0', '', 0, 0),
 (40076, 40076, 'lm_pond', 'lm_pond', 1, 1, 1.00, '0', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (40353, 4035, 'nest_turtle', 'nest_turtle', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(41277, 41277, '041277', '041277', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 28, 28);
+(41277, 41277, '041277', '041277', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 28, 28),
+(41278, 41278, 'wf_act_telr_user', 'wf_act_telr_user', 1, 1, 0.65, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(41278, 41278, 'wf_act_telr_user', 'wf_act_telr_user', 1, 1, 0.65, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (41623, 4162, 'school_chair', 'school_chair', 1, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (43743, 4374, 'bling11_wall1', 'bling11_wall1', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 1, '0', '0', '', 0, 0),
 (43763, 4376, 'bling11_wall2', 'bling11_wall2', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 1, '0', '0', '', 0, 0),
@@ -4284,7 +4283,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (55859, 4505, 'easter13_window', 'easter13_window', 0, 0, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 0, '0', '0', '', 0, 0),
 (55860, 4506, 'easter13_wall1', 'easter13_wall1', 0, 0, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 5, '0', '0', '', 0, 0),
 (55861, 4507, 'easter13_wall2', 'easter13_wall2', 0, 0, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 5, '0', '0', '', 0, 0),
-(55904, 4030, 'sb_rail', 'sb_rail', 1, 1, 0.80, '0', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'effect_toggle', 1, '0', '0', '', 71, 71),
+(55904, 4030, 'sb_rail', 'sb_rail', 1, 1, 0.55, '0', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (55905, 4031, 'sb_ramp', 'sb_ramp', 2, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (55906, 4032, 'sb_block', 'sb_block', 2, 2, 0.50, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (56700, 4039, 'coco_stool_c2', 'coco_stool_c2', 1, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -4471,9 +4470,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (65140, 5652, 'bc_stone*1', 'bc_stone*1', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (65141, 5653, 'bc_stone*10', 'bc_stone*10', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (65142, 5654, 'bc_stone*11', 'bc_stone*11', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(65143, 5655, 'bc_stone*12', 'bc_stone*12', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
+(65143, 5655, 'bc_stone*12', 'bc_stone*12', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(65144, 5656, 'bc_stone*13', 'bc_stone*13', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(65144, 5656, 'bc_stone*13', 'bc_stone*13', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (65145, 5657, 'bc_stone*14', 'bc_stone*14', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (65146, 5658, 'bc_stone*2', 'bc_stone*2', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (65147, 5659, 'bc_stone*3', 'bc_stone*3', 1, 1, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -4807,9 +4806,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (65477, 7367, 'bc_alpha1_g*5', 'bc_alpha1_g*5', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65478, 7368, 'bc_alpha1_g*6', 'bc_alpha1_g*6', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65479, 7369, 'bc_alpha1_g*7', 'bc_alpha1_g*7', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(65480, 7370, 'bc_alpha1_g*8', 'bc_alpha1_g*8', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
+(65480, 7370, 'bc_alpha1_g*8', 'bc_alpha1_g*8', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
+(65481, 7371, 'bc_alpha1_g*9', 'bc_alpha1_g*9', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(65481, 7371, 'bc_alpha1_g*9', 'bc_alpha1_g*9', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65482, 7372, 'bc_alpha1_r*1', 'bc_alpha1_r*1', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65483, 7373, 'bc_alpha1_r*10', 'bc_alpha1_r*10', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65484, 7374, 'bc_alpha1_r*11', 'bc_alpha1_r*11', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -5105,9 +5104,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (65774, 7664, 'bc_alpha1_num*8', 'bc_alpha1_num*8', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 10, '0', '0', '', 0, 0),
 (65775, 7665, 'bc_alpha1_num*9', 'bc_alpha1_num*9', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 10, '0', '0', '', 0, 0),
 (65776, 7666, 'bc_alpha1_u*1', 'bc_alpha1_u*1', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(65777, 7667, 'bc_alpha1_u*10', 'bc_alpha1_u*10', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
+(65777, 7667, 'bc_alpha1_u*10', 'bc_alpha1_u*10', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
+(65778, 7668, 'bc_alpha1_u*11', 'bc_alpha1_u*11', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(65778, 7668, 'bc_alpha1_u*11', 'bc_alpha1_u*11', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65779, 7669, 'bc_alpha1_u*12', 'bc_alpha1_u*12', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65780, 7670, 'bc_alpha1_u*13', 'bc_alpha1_u*13', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (65781, 7671, 'bc_alpha1_u*14', 'bc_alpha1_u*14', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -5439,9 +5438,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (90078, 3981, 'picnic_pillow_yel', 'picnic_pillow_yel', 1, 1, 0.80, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (90079, 3982, 'picnic_food1', 'picnic_food1', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (90080, 3983, 'note_tag', 'note_tag', 1, 1, 1.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'sticky_pole', 1, '0', '0', '', 0, 0),
-(90082, 3985, 'picnic_blanket_blu', 'picnic_blanket_blu', 3, 3, 0.01, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
+(90082, 3985, 'picnic_blanket_blu', 'picnic_blanket_blu', 3, 3, 0.01, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(90083, 3986, 'picnic_food3', 'picnic_food3', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(90083, 3986, 'picnic_food3', 'picnic_food3', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (90084, 3987, 'picnic_blanket', 'picnic_blanket', 3, 3, 0.01, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (90085, 3988, 'picnic_pillow_blu', 'picnic_pillow_blu', 1, 1, 0.80, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (90086, 3989, 'picnic_food2', 'picnic_food2', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -5578,7 +5577,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (99472, 99472, 'hween_c17_zombiegrunt', 'hween_c17_zombiegrunt', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (99473, 99473, 'hween_ltd17_dragon', 'hween_ltd17_dragon', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (99474, 99474, 'hween_c17_hangingroots', 'hween_c17_hangingroots', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(99475, 99475, 'hween_c17_fallingrocks', 'hween_c17_fallingrocks', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(99475, 99475, 'hween_c17_fallingrocks', 'hween_c17_fallingrocks', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'effect_tile', 1, '0', '0', '', 53, 53),
 (99476, 99476, 'hween_c17_zombiesleep', 'hween_c17_zombiesleep', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (99477, 99477, 'clothing_badasshelmet', 'clothing_badasshelmet', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (99479, 99479, 'hween_c17_mimic', 'hween_c17_mimic', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -5774,9 +5773,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (148545, 148545, 'laundry_c18_ironing', 'laundry_c18_ironing', 1, 2, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (148546, 148546, 'laundry_c18_dustpan', 'laundry_c18_dustpan', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (148548, 148548, 'laundry_c18_basket', 'laundry_c18_basket', 1, 1, 0.00, '0', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
-(148549, 148549, 'laundry_c18_products', 'laundry_c18_products', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0);
+(148549, 148549, 'laundry_c18_products', 'laundry_c18_products', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
+(148551, 148551, 'laundry_c18_washmachine', 'laundry_c18_washmachine', 1, 1, 1.30, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(148551, 148551, 'laundry_c18_washmachine', 'laundry_c18_washmachine', 1, 1, 1.30, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (148556, 148556, 'laundry_r18_vacuum', 'laundry_r18_vacuum', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (148557, 148557, 'laundry_c18_dryingrack', 'laundry_c18_dryingrack', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (148560, 148560, 'jp_r18_asiandoll', 'jp_r18_asiandoll', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
@@ -5811,10 +5810,10 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (194001, 194001, 'poster', 'poster', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 1, '0', '0', '', 0, 0),
 (194305, 194305, 'rare_parasol*3', 'rare_parasol*3', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (199868, 4018, 'qt_sum11_ictrolley', 'qt_sum11_ictrolley', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'vendingmachine', 2, '4,28,29,30', '0', '', 0, 0),
-(199869, 4022, 'qt_sum11_platfrm', 'qt_sum11_platfrm', 2, 2, 0.80, '1', '0', '0', '1', '0', '1', '0', '0', '1', 's', 'default', 2, '0', '0', '', 0, 0),
+(199869, 4022, 'qt_sum11_platfrm', 'qt_sum11_platfrm', 2, 2, 0.80, '1', '0', '0', '1', '0', '1', '0', '0', '1', 's', 'water_item', 1, '0', '0', '', 0, 0),
 (199870, 4021, 'qt_sum11_shell3', 'qt_sum11_shell3', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (199871, 4023, 'qt_sum11_shell2', 'qt_sum11_shell2', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(199872, 4025, 'qt_sum11_chair', 'qt_sum11_chair', 1, 1, 1.00, '0', '1', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 4, '0', '0', '', 0, 0),
+(199872, 4025, 'qt_sum11_chair', 'qt_sum11_chair', 1, 1, 1.20, '0', '1', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (199873, 4020, 'qt_sum11_shell4', 'qt_sum11_shell4', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (199874, 4017, 'qt_sum11_shell1', 'qt_sum11_shell1', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (199875, 4024, 'qt_sum11_shell5', 'qt_sum11_shell5', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -5838,7 +5837,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (210233, 210233, 'clothing_highfade', 'clothing_highfade', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (212121, 212121, 'prncessbed', 'prncessbed', 2, 3, 1.60, '0', '1', '1', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (247872, 4648, 'anc_artifact2', 'anc_artifact2', 2, 2, 1.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(254874, 4071, 'hole', 'hole', 2, 2, 0.00, '0', '0', '0', '0', '0', '0', '0', '1', '1', 's', 'blackhole', 1, '0', '0', '', 0, 0),
+(254874, 4071, 'hole', 'hole', 2, 2, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'blackhole', 1, '0', '0', '', 0, 0),
 (274827, 4461, 'anc_savanna_wall', 'anc_savanna_wall', 0, 0, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 2, '0', '0', '', 0, 0),
 (292902, 3672, 'wf_pyramid', 'wf_pyramid', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'gate', 2, '0', '0', '', 0, 0),
 (300003, 4036, 'ads_mpu_720', 'ads_mpu_720', 1, 1, 0.00, '1', '0', '0', '1', '0', '0', '0', '0', '0', 's', 'ads_bg', 1, '0', '0', '', 0, 0),
@@ -6104,9 +6103,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (755453, 755453, 'xmas_c16_desk', 'xmas_c16_desk', 3, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (755454, 755454, 'xmas_c16_deskcandles', 'xmas_c16_deskcandles', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
 (755455, 755455, 'xmas_c16_deskitems', 'xmas_c16_deskitems', 1, 1, 0.30, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 8, '0', '0', '', 0, 0),
-(755456, 755456, 'xmas_c16_diningbench', 'xmas_c16_diningbench', 4, 1, 1.40, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
+(755456, 755456, 'xmas_c16_diningbench', 'xmas_c16_diningbench', 4, 1, 1.40, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(755457, 755457, 'xmas_c16_diningtable', 'xmas_c16_diningtable', 3, 4, 1.50, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(755457, 755457, 'xmas_c16_diningtable', 'xmas_c16_diningtable', 3, 4, 1.50, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (755458, 755458, 'xmas_c16_door', 'xmas_c16_door', 4, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'gate', 2, '0', '0', '', 0, 0),
 (755459, 755459, 'xmas_c16_dresser', 'xmas_c16_dresser', 2, 1, 1.80, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (755460, 755460, 'xmas_c16_dvdr', 'xmas_c16_dvdr', 1, 2, 2.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
@@ -6194,11 +6193,11 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (900114, 5016, 'badge_display3', 'badge_display3', 1, 1, 2.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'badge_display', 1, '0', '0', '', 0, 0),
 (900115, 5015, 'badge_display4', 'badge_display4', 1, 1, 2.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'badge_display', 1, '0', '0', '', 0, 0),
 (900116, 5017, 'badge_display5', 'badge_display5', 1, 1, 2.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'badge_display', 1, '0', '0', '', 0, 0),
-(900117, 5103, 'tile_stackmagic', 'tile_stackmagic', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 1, '0', '0', '', 0, 0),
+(900117, 5103, 'tile_stackmagic', 'tile_stackmagic', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
 (900118, 5175, 'yttv1', 'yttv1', 2, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (900119, 5172, 'hblooza_spacerent5x5', 'hblooza_spacerent5x5', 5, 5, 0.00, '0', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(900120, 5180, 'tile_stackmagic1', 'tile_stackmagic1', 2, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 1, '0', '0', '', 0, 0),
-(900121, 5181, 'tile_stackmagic2', 'tile_stackmagic2', 2, 2, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 1, '0', '0', '', 0, 0),
+(900120, 5180, 'tile_stackmagic1', 'tile_stackmagic1', 2, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
+(900121, 5181, 'tile_stackmagic2', 'tile_stackmagic2', 2, 2, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
 (900122, 5174, 'yttv2', 'yttv2', 3, 2, 2.90, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (900123, 5173, 'yttv3', 'yttv3', 2, 2, 3.50, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (900124, 5176, 'yttv2b', 'yttv2b', 3, 2, 2.90, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -6436,9 +6435,9 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (900370, 6097, 'uni_plush1', 'uni_plush1', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (900371, 6098, 'uni_owl', 'uni_owl', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (900372, 6099, 'uni_ottoman', 'uni_ottoman', 2, 1, 1.40, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
-(900373, 6100, 'uni_drinks', 'uni_drinks', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0);
+(900373, 6100, 'uni_drinks', 'uni_drinks', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
+(900374, 6101, 'uni_brotein', 'uni_brotein', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
-(900374, 6101, 'uni_brotein', 'uni_brotein', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (900375, 6102, 'uni_games', 'uni_games', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (900376, 6103, 'uni_girlchair', 'uni_girlchair', 1, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (900377, 6104, 'uni_gamershelf', 'uni_gamershelf', 2, 1, 2.90, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
@@ -6664,12 +6663,14 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (1237552, 1237552, 'eldor_wiesenboden', 'eldor_wiesenboden', 2, 2, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
 (1237553, 1237553, 'eldor11_floor', 'eldor11_floor', 1, 1, 0.10, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 9, '0', '0', '', 0, 0),
 (1237554, 1237554, 'eldorado_goldsofa10', 'eldorado_goldsofa10', 2, 1, 1.00, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(1283863, 1283863, 'hole2', 'hole2', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'blackhole', 1, '0', '0', '', 0, 0),
 (1284148, 1284148, 'sfx_lazer', 'sfx_lazer', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284149, 1284149, 'sfx_onetwo', 'sfx_onetwo', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284150, 1284150, 'sfx_duck', 'sfx_duck', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284151, 1284151, 'sfx_whistle', 'sfx_whistle', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284152, 1284152, 'sfx_bells', 'sfx_bells', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284153, 1284153, 'sfx_glass', 'sfx_glass', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
+(1284185, 1284185, 'hole3', 'hole3', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'blackhole', 1, '0', '0', '', 0, 0),
 (1284526, 1284526, 'sfx_xylo', 'sfx_xylo', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284527, 1284527, 'sfx_dubstep3_2', 'sfx_dubstep3_2', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284528, 1284528, 'sfx_dubstep3', 'sfx_dubstep3', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
@@ -6690,6 +6691,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (1284550, 1284550, 'sfx_bass_dbl', 'sfx_bass_dbl', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284551, 1284551, 'sfx_strange_echoes_1', 'sfx_strange_echoes_1', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (1284552, 1284552, 'sfx_strange_echoes_3', 'sfx_strange_echoes_3', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
+(1285207, 1285207, 'hole4', 'hole4', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'blackhole', 1, '0', '0', '', 0, 0),
+(1285208, 1285208, 'hole1x1test', 'hole1x1test', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'blackhole', 1, '0', '0', '', 0, 0),
 (1402736, 1402736, 'a0 pet36', 'a0 pet36', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '1', '0', 'p', 'default', 0, '0', '0', '', 0, 0),
 (1673112, 1673112, 'patch_watergone', 'patch_watergone', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'water', 1, '0', '0', '', 28, 28),
 (1702177, 1702177, 'aaaaa', 'aaaaa', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -6762,10 +6765,10 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (1802089, 1802089, 'bazaar_c17_dyeblue', 'bazaar_c17_dyeblue', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1802090, 1802090, 'bazaar_c17_dyegreen', 'bazaar_c17_dyegreen', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1802091, 1802091, 'bazaar_c17_dyemystic', 'bazaar_c17_dyemystic', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(1802092, 1802092, 'bazaar_c17_dyepink', 'bazaar_c17_dyepink', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(1802093, 1802093, 'bazaar_c17_dyepurple', 'bazaar_c17_dyepurple', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(1802094, 1802094, 'bazaar_c17_dyeyellow', 'bazaar_c17_dyeyellow', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
+(1802092, 1802092, 'bazaar_c17_dyepink', 'bazaar_c17_dyepink', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
 INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(1802093, 1802093, 'bazaar_c17_dyepurple', 'bazaar_c17_dyepurple', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(1802094, 1802094, 'bazaar_c17_dyeyellow', 'bazaar_c17_dyeyellow', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (1802095, 1802095, 'bazaar_c17_flycarpet', 'bazaar_c17_flycarpet', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'effect_tile', 1, '0', '0', '', 197, 197),
 (1802096, 1802096, 'bazaar_c17_fruitbasket', 'bazaar_c17_fruitbasket', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (1802097, 1802097, 'bazaar_c17_lamp', 'bazaar_c17_lamp', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -6875,7 +6878,14 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (2029134, 2029134, 'clothing_r17_weddingdress', 'clothing_r17_weddingdress', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (2029135, 2029135, 'clothing_r17_weddingset', 'clothing_r17_weddingset', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (2034794, 2034794, 'highscore_classic*1', 'highscore_classic*1', 1, 1, 0.65, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'wf_highscore', 2, '0', '0', '', 0, 0),
+(2081991, 2081991, 'stapelfeld_1', 'stapelfeld_1', 1, 3, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
+(2081992, 2081992, 'stapelfeld_2', 'stapelfeld_2', 1, 4, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
+(2081993, 2081993, 'stapelfeld_3', 'stapelfeld_3', 1, 5, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
+(2081994, 2081994, 'stapelfeld_7', 'stapelfeld_7', 4, 4, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
+(2081995, 2081995, 'stapelfeld_8', 'stapelfeld_8', 5, 5, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
+(2081996, 2081996, 'tile_stackmagic4', 'tile_stackmagic4', 3, 3, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'stack_helper', 2, '0', '0', '', 0, 0),
 (2084659, 2084659, 'xmas_c18_starrybg', 'xmas_c18_starrybg', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 3, '0', '0', '', 0, 0),
+(2084797, 2084797, 'mystery_box', 'mystery_box', 1, 1, 1.20, '1', '0', '0', '0', '1', '0', '0', '0', '1', 's', 'default', 25, '0', '0', '', 0, 0),
 (2088405, 2088405, 'CF_750_evilskull', 'CF_750_evilskull', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (2098921, 2098921, 'clothing_r16_catface', 'clothing_r16_catface', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (2098933, 2098933, 'hween_ltd16_ghostcar', 'hween_ltd16_ghostcar', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -6975,7 +6985,6 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (3000505, 4103, 'lm_palm1', 'lm_palm1', 1, 1, 3.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (3000506, 4104, 'lm_totem', 'lm_totem', 1, 1, 1.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
 (3004327, 4428, 'edice_val12_therm', 'edice_val12_therm', 1, 1, 2.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 8, '0', '0', '', 0, 0),
-(3004328, 4435, 'hole3', 'hole3', 1, 1, 1.00, '1', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (3004331, 4418, 'val12_carpet', 'val12_carpet', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (3004332, 4425, 'val12_elevine', 'val12_elevine', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '0;0.5;1;1.5;2', '', 0, 0),
 (3004333, 4417, 'val12_flower', 'val12_flower', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
@@ -6995,6 +7004,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (3004347, 4423, 'val12_xray', 'val12_xray', 1, 2, 2.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (3073928, 3073928, 'boutique_mannequin1', 'boutique_mannequin1', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'mannequin', 2, '0', '0', '', 0, 0),
 (3074010, 3074010, 'habbowheel', 'habbowheel', 0, 0, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 'i', 'colorwheel', 5, '0', '0', '', 0, 0),
+(3089405, 3089405, 'clothing_flipflopsocks', 'clothing_flipflopsocks', 1, 1, 0.40, '1', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (3104222, 3104222, 'PIH04', 'PIH04', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
 (3104292, 3104292, 'PIH03', 'PIH03', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
 (3104302, 3104302, 'PIH01', 'PIH01', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
@@ -7077,7 +7087,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (4310044, 4310044, 'hween_c18_labstool', 'hween_c18_labstool', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310045, 4310045, 'hween_c18_labtooltable', 'hween_c18_labtooltable', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310046, 4310046, 'clothing_bloodponytail', 'clothing_bloodponytail', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(4310047, 4310047, 'hween_r18_antiquechemset', 'hween_r18_antiquechemset', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
+(4310047, 4310047, 'hween_r18_antiquechemset', 'hween_r18_antiquechemset', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0);
+INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
 (4310048, 4310048, 'hween_c18_toy1old', 'hween_c18_toy1old', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310049, 4310049, 'hween_c18_oldlabtilewall', 'hween_c18_oldlabtilewall', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310050, 4310050, 'hween_c18_deskitems1', 'hween_c18_deskitems1', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
@@ -7086,8 +7097,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (4310053, 4310053, 'clothing_bloodscruffyhair', 'clothing_bloodscruffyhair', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (4310054, 4310054, 'hween_c18_olddocs1', 'hween_c18_olddocs1', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310055, 4310055, 'hween_c18_toy3old', 'hween_c18_toy3old', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
-(4310056, 4310056, 'hween_c18_labtilefloor', 'hween_c18_labtilefloor', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0);
-INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(4310056, 4310056, 'hween_c18_labtilefloor', 'hween_c18_labtilefloor', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310057, 4310057, 'hween_c18_oldlablocker', 'hween_c18_oldlablocker', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310058, 4310058, 'hween_c18_flashlight', 'hween_c18_flashlight', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
 (4310059, 4310059, 'hween_c18_labbed', 'hween_c18_labbed', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '', '0', '', 0, 0),
@@ -7236,7 +7246,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (6710444, 6710444, 'celestial_c19_floor', 'celestial_c19_floor', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (6710445, 6710445, 'clothing_r19_celestialdress', 'clothing_r19_celestialdress', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (6710446, 6710446, 'clothing_zebratop', 'clothing_zebratop', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(6710447, 6710447, 'clothing_nt_zebratop', 'clothing_nt_zebratop', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(6710447, 6710447, 'clothing_nt_zebratop', 'clothing_nt_zebratop', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (6710448, 6710448, 'clothing_croppedjumper', 'clothing_croppedjumper', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (6710449, 6710449, 'clothing_layeredlongskirt', 'clothing_layeredlongskirt', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (6710451, 6710451, 'clothing_longmohawk', 'clothing_longmohawk', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
@@ -7393,7 +7403,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (18910085, 18910085, 'xmas_c18_stocking_tiger', 'xmas_c18_stocking_tiger', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910086, 18910086, 'xmas_c18_snowman', 'xmas_c18_snowman', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910087, 18910087, 'xmas_c18_snowballpit', 'xmas_c18_snowballpit', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910088, 18910088, 'xmas_c18_stocking_crusoe', 'xmas_c18_stocking_crusoe', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910088, 18910088, 'xmas_c18_stocking_crusoe', 'xmas_c18_stocking_crusoe', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
+INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
 (18910089, 18910089, 'xmas_c18_stallroof', 'xmas_c18_stallroof', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910090, 18910090, 'xmas_c18_presentelf', 'xmas_c18_presentelf', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910091, 18910091, 'xmas_c18_doll10', 'xmas_c18_doll10', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -7403,8 +7414,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (18910095, 18910095, 'xmas_c18_stagecurtains', 'xmas_c18_stagecurtains', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910096, 18910096, 'xmas_c18_stocking_cleo', 'xmas_c18_stocking_cleo', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910097, 18910097, 'xmas_c18_presents', 'xmas_c18_presents', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910098, 18910098, 'xmas_r18_snowyowl', 'xmas_r18_snowyowl', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0);
-INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(18910098, 18910098, 'xmas_r18_snowyowl', 'xmas_r18_snowyowl', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910099, 18910099, 'xmas_c18_doll6', 'xmas_c18_doll6', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910100, 18910100, 'xmas_c18_stalltable', 'xmas_c18_stalltable', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910101, 18910101, 'xmas_c18_streetlight', 'xmas_c18_streetlight', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -7461,57 +7471,57 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (18910152, 18910152, 'xmas_c18_piano', 'xmas_c18_piano', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910153, 18910153, 'clothing_treepartyhat', 'clothing_treepartyhat', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (18910154, 18910154, 'xmas_c18_deer_donna', 'xmas_c18_deer_donna', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910452, 18910452, 'suncity_c19_botshop', 'suncity_c19_botshop', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910453, 18910453, 'suncity_c19_jellyfood', 'suncity_c19_jellyfood', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910454, 18910454, 'suncity_c19_building', 'suncity_c19_building', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910455, 18910455, 'suncity_c19_chair', 'suncity_c19_chair', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910456, 18910456, 'suncity_c19_waterway', 'suncity_c19_waterway', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910457, 18910457, 'suncity_c19_divider', 'suncity_c19_divider', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910452, 18910452, 'suncity_c19_botshop', 'suncity_c19_botshop', 2, 1, 4.70, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910453, 18910453, 'suncity_c19_jellyfood', 'suncity_c19_jellyfood', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
+(18910454, 18910454, 'suncity_c19_building', 'suncity_c19_building', 2, 1, 4.65, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
+(18910455, 18910455, 'suncity_c19_chair', 'suncity_c19_chair', 1, 1, 1.20, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910456, 18910456, 'suncity_c19_waterway', 'suncity_c19_waterway', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910457, 18910457, 'suncity_c19_divider', 'suncity_c19_divider', 2, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910458, 18910458, 'clothing_shortcut', 'clothing_shortcut', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (18910459, 18910459, 'clothing_loosekimono', 'clothing_loosekimono', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910460, 18910460, 'suncity_c19_flora', 'suncity_c19_flora', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910460, 18910460, 'suncity_c19_flora', 'suncity_c19_flora', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
 (18910461, 18910461, 'suncity_c19_glass', 'suncity_c19_glass', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910462, 18910462, 'suncity_c19_plantpillar', 'suncity_c19_plantpillar', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910463, 18910463, 'suncity_c19_awning', 'suncity_c19_awning', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910462, 18910462, 'suncity_c19_plantpillar', 'suncity_c19_plantpillar', 1, 1, 2.60, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
+(18910463, 18910463, 'suncity_c19_awning', 'suncity_c19_awning', 2, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
 (18910464, 18910464, 'clothing_gardenapron', 'clothing_gardenapron', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910465, 18910465, 'suncity_ltd19_duckpond', 'suncity_ltd19_duckpond', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910465, 18910465, 'suncity_ltd19_duckpond', 'suncity_ltd19_duckpond', 3, 3, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (18910466, 18910466, 'suncity_c19_clock', 'suncity_c19_clock', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910467, 18910467, 'suncity_c19_lamp', 'suncity_c19_lamp', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910468, 18910468, 'clothing_nt_flowytop', 'clothing_nt_flowytop', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910468, 18910468, 'clothing_nt_flowytop', 'clothing_nt_flowytop', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (18910469, 18910469, 'clothing_butterflymask', 'clothing_butterflymask', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (18910470, 18910470, 'suncity_c19_plastic', 'suncity_c19_plastic', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910471, 18910471, 'suncity_c19_munchling', 'suncity_c19_munchling', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910472, 18910472, 'suncity_c19_balcony', 'suncity_c19_balcony', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910473, 18910473, 'suncity_c19_solarpanel', 'suncity_c19_solarpanel', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910474, 18910474, 'clothing_r19_butterflydress', 'clothing_r19_butterflydress', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910475, 18910475, 'suncity_r19_biosphere', 'suncity_r19_biosphere', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910476, 18910476, 'suncity_c19_floor', 'suncity_c19_floor', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910471, 18910471, 'suncity_c19_munchling', 'suncity_c19_munchling', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
+(18910472, 18910472, 'suncity_c19_balcony', 'suncity_c19_balcony', 2, 1, 4.65, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
+(18910473, 18910473, 'suncity_c19_solarpanel', 'suncity_c19_solarpanel', 1, 2, 0.15, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910474, 18910474, 'clothing_r19_butterflydress', 'clothing_r19_butterflydress', 1, 1, 0.00, '1', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910475, 18910475, 'suncity_r19_biosphere', 'suncity_r19_biosphere', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'default', 4, '0', '0', '', 0, 0),
+(18910476, 18910476, 'suncity_c19_floor', 'suncity_c19_floor', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910477, 18910477, 'clothing_leafmask', 'clothing_leafmask', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (18910478, 18910478, 'clothing_gogglehat', 'clothing_gogglehat', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (18910479, 18910479, 'suncity_c19_paper', 'suncity_c19_paper', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910480, 18910480, 'suncity_c19_tree', 'suncity_c19_tree', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910480, 18910480, 'suncity_c19_tree', 'suncity_c19_tree', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (18910481, 18910481, 'clothing_flowytop', 'clothing_flowytop', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910482, 18910482, 'suncity_c19_trashboy', 'suncity_c19_trashboy', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910482, 18910482, 'suncity_c19_trashboy', 'suncity_c19_trashboy', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (18910483, 18910483, 'suncity_c19_biokit', 'suncity_c19_biokit', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910484, 18910484, 'clothing_leafearrings', 'clothing_leafearrings', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910485, 18910485, 'suncity_c19_glasswall', 'suncity_c19_glasswall', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910486, 18910486, 'suncity_c19_gazebo', 'suncity_c19_gazebo', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910487, 18910487, 'clothing_r19_featheredcowl', 'clothing_r19_featheredcowl', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910488, 18910488, 'suncity_c19_wateroutlet', 'suncity_c19_wateroutlet', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910485, 18910485, 'suncity_c19_glasswall', 'suncity_c19_glasswall', 2, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910486, 18910486, 'suncity_c19_gazebo', 'suncity_c19_gazebo', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910487, 18910487, 'clothing_r19_featheredcowl', 'clothing_r19_featheredcowl', 1, 1, 0.00, '1', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910488, 18910488, 'suncity_c19_wateroutlet', 'suncity_c19_wateroutlet', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'vendingmachine', 2, '1081', '0', '', 0, 0),
 (18910489, 18910489, 'clothing_floralbag', 'clothing_floralbag', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910490, 18910490, 'suncity_c19_streetlight', 'suncity_c19_streetlight', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910491, 18910491, 'suncity_r19_glassfountain', 'suncity_r19_glassfountain', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910492, 18910492, 'suncity_c19_minibridge', 'suncity_c19_minibridge', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910493, 18910493, 'suncity_c19_waterwaycrnr', 'suncity_c19_waterwaycrnr', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910494, 18910494, 'suncity_c19_table', 'suncity_c19_table', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910490, 18910490, 'suncity_c19_streetlight', 'suncity_c19_streetlight', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
+(18910491, 18910491, 'suncity_r19_glassfountain', 'suncity_r19_glassfountain', 2, 2, 0.00, '0', '0', '0', '0', '0', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910492, 18910492, 'suncity_c19_minibridge', 'suncity_c19_minibridge', 1, 1, 0.25, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910493, 18910493, 'suncity_c19_waterwaycrnr', 'suncity_c19_waterwaycrnr', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910494, 18910494, 'suncity_c19_table', 'suncity_c19_table', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910495, 18910495, 'clothing_sprout', 'clothing_sprout', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910496, 18910496, 'suncity_c19_perfumeshop', 'suncity_c19_perfumeshop', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(18910496, 18910496, 'suncity_c19_perfumeshop', 'suncity_c19_perfumeshop', 2, 1, 4.70, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (18910497, 18910497, 'suncity_c19_vase', 'suncity_c19_vase', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
-(18910498, 18910498, 'clothing_nt_loosekimono', 'clothing_nt_loosekimono', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910499, 18910499, 'clothing_nt_shortcut', 'clothing_nt_shortcut', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910500, 18910500, 'clothing_nt_sprout', 'clothing_nt_sprout', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910501, 18910501, 'clothing_nt_leafearrings', 'clothing_nt_leafearrings', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
-(18910502, 18910502, 'clothing_nt_gardenapron', 'clothing_nt_gardenapron', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910498, 18910498, 'clothing_nt_loosekimono', 'clothing_nt_loosekimono', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910499, 18910499, 'clothing_nt_shortcut', 'clothing_nt_shortcut', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910500, 18910500, 'clothing_nt_sprout', 'clothing_nt_sprout', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910501, 18910501, 'clothing_nt_leafearrings', 'clothing_nt_leafearrings', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
+(18910502, 18910502, 'clothing_nt_gardenapron', 'clothing_nt_gardenapron', 1, 1, 0.00, '0', '0', '0', '0', '0', '0', '0', '0', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (19124635, 19124635, 'xmas_c16_painting', 'xmas_c16_painting', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 4, '0', '0', '', 0, 0),
 (19128376, 19128376, 'clothing_noblecrown', 'clothing_noblecrown', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'clothing', 1, '0', '0', '', 0, 0),
 (20082016, 20082016, 'st_lightbox', 'st_lightbox', 1, 1, 1.30, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
@@ -7609,6 +7619,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (28710409, 28710409, 'pastel_c19_floor', 'pastel_c19_floor', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (28710410, 28710410, 'pastel_c19_plushie2', 'pastel_c19_plushie2', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (28710411, 28710411, 'pastel_c19_bed', 'pastel_c19_bed', 2, 3, 2.00, '0', '0', '1', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(30810170, 30810170, 'CF_1000_goldenkey', 'CF_1000_goldenkey', 1, 1, 0.00, '0', '0', '0', '0', '0', '1', '0', '0', '1', 's', 'default', 1, '0', '0', '', 0, 0),
+(30840252, 30840252, 'PIH15', 'PIH15', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
 (32400121, 32400121, 'AngelDragonVkr', 'AngelDragonVkr', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (32400122, 32400122, 'DevilDragonVkr', 'DevilDragonVkr', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (33402331, 33402331, 'Jewlerydiscase', 'Jewlerydiscase', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -7700,7 +7712,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44390716, 6366, 'bc_pyramidtip*24', 'bc_pyramidtip*24', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390717, 6367, 'bc_pyramidtip*25', 'bc_pyramidtip*25', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390718, 6368, 'bc_pyramidtip*26', 'bc_pyramidtip*26', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44390719, 6369, 'bc_pyramidtip*27', 'bc_pyramidtip*27', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
+(44390719, 6369, 'bc_pyramidtip*27', 'bc_pyramidtip*27', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
+INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
 (44390720, 6370, 'bc_pyramidtip*28', 'bc_pyramidtip*28', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390721, 6371, 'bc_pyramidtip*29', 'bc_pyramidtip*29', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390722, 6372, 'bc_pyramidtip*3', 'bc_pyramidtip*3', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -7711,8 +7724,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44390727, 6377, 'bc_pyramidtip*34', 'bc_pyramidtip*34', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390728, 6378, 'bc_pyramidtip*35', 'bc_pyramidtip*35', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390729, 6379, 'bc_pyramidtip*36', 'bc_pyramidtip*36', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44390730, 6380, 'bc_pyramidtip*37', 'bc_pyramidtip*37', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
-INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(44390730, 6380, 'bc_pyramidtip*37', 'bc_pyramidtip*37', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390731, 6381, 'bc_pyramidtip*38', 'bc_pyramidtip*38', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390732, 6382, 'bc_pyramidtip*39', 'bc_pyramidtip*39', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44390733, 6383, 'bc_pyramidtip*4', 'bc_pyramidtip*4', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -7987,7 +7999,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44391126, 6652, 'bc_halfcylinder*33', 'bc_halfcylinder*33', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391127, 6653, 'bc_halfcylinder*34', 'bc_halfcylinder*34', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391128, 6654, 'bc_halfcylinder*35', 'bc_halfcylinder*35', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44391129, 6655, 'bc_halfcylinder*36', 'bc_halfcylinder*36', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
+(44391129, 6655, 'bc_halfcylinder*36', 'bc_halfcylinder*36', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
+INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
 (44391130, 6656, 'bc_halfcylinder*37', 'bc_halfcylinder*37', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391131, 6657, 'bc_halfcylinder*38', 'bc_halfcylinder*38', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391132, 6658, 'bc_halfcylinder*39', 'bc_halfcylinder*39', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -7998,8 +8011,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44391137, 6663, 'bc_halfcylinder*43', 'bc_halfcylinder*43', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391138, 6664, 'bc_halfcylinder*44', 'bc_halfcylinder*44', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391139, 6665, 'bc_halfcylinder*45', 'bc_halfcylinder*45', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44391140, 6666, 'bc_halfcylinder*46', 'bc_halfcylinder*46', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
-INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(44391140, 6666, 'bc_halfcylinder*46', 'bc_halfcylinder*46', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391141, 6667, 'bc_halfcylinder*47', 'bc_halfcylinder*47', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391142, 6668, 'bc_halfcylinder*48', 'bc_halfcylinder*48', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391143, 6669, 'bc_halfcylinder*49', 'bc_halfcylinder*49', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -8302,7 +8314,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44391609, 6966, 'bc_cylinder*18', 'bc_cylinder*18', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391610, 6967, 'bc_cylinder*19', 'bc_cylinder*19', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391611, 6968, 'bc_cylinder*2', 'bc_cylinder*2', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44391612, 6969, 'bc_cylinder*20', 'bc_cylinder*20', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
+(44391612, 6969, 'bc_cylinder*20', 'bc_cylinder*20', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
+INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
 (44391613, 6970, 'bc_cylinder*21', 'bc_cylinder*21', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391614, 6971, 'bc_cylinder*22', 'bc_cylinder*22', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391615, 6972, 'bc_cylinder*23', 'bc_cylinder*23', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -8313,8 +8326,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44391620, 6977, 'bc_cylinder*28', 'bc_cylinder*28', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391621, 6978, 'bc_cylinder*29', 'bc_cylinder*29', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391622, 6979, 'bc_cylinder*3', 'bc_cylinder*3', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44391623, 6980, 'bc_cylinder*30', 'bc_cylinder*30', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
-INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(44391623, 6980, 'bc_cylinder*30', 'bc_cylinder*30', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391624, 6981, 'bc_cylinder*31', 'bc_cylinder*31', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391625, 6982, 'bc_cylinder*32', 'bc_cylinder*32', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44391626, 6983, 'bc_cylinder*33', 'bc_cylinder*33', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -8583,7 +8595,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44392027, 7246, 'bc_sphere*34', 'bc_sphere*34', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392028, 7247, 'bc_sphere*35', 'bc_sphere*35', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392029, 7248, 'bc_sphere*36', 'bc_sphere*36', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44392030, 7249, 'bc_sphere*37', 'bc_sphere*37', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
+(44392030, 7249, 'bc_sphere*37', 'bc_sphere*37', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
+INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
 (44392031, 7250, 'bc_sphere*38', 'bc_sphere*38', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392032, 7251, 'bc_sphere*39', 'bc_sphere*39', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392033, 7252, 'bc_sphere*4', 'bc_sphere*4', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -8595,8 +8608,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (44392039, 7258, 'bc_sphere*45', 'bc_sphere*45', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392040, 7259, 'bc_sphere*46', 'bc_sphere*46', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392041, 7260, 'bc_sphere*47', 'bc_sphere*47', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
-(44392042, 7261, 'bc_sphere*48', 'bc_sphere*48', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0);
-INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(44392042, 7261, 'bc_sphere*48', 'bc_sphere*48', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392043, 7262, 'bc_sphere*49', 'bc_sphere*49', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392044, 7263, 'bc_sphere*5', 'bc_sphere*5', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
 (44392045, 7264, 'bc_sphere*50', 'bc_sphere*50', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '1.0;0.75;0.50;0.25;0.0', '', 0, 0),
@@ -8867,7 +8879,11 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (123456789, 987654321, 'cocacolamachi', 'cocacolamachi', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'vendingmachine', 2, '57', '0', '', 0, 0),
 (150820162, 150820162, 'spotligrw', 'spotligrw', 1, 1, 0.30, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 6, '0', '0', '', 0, 0),
 (200820162, 200820162, 'spotligcn', 'spotligcn', 1, 1, 0.90, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 6, '0', '0', '', 0, 0),
+(218910465, 218910465, 'SLC09', 'SLC09', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
 (218910474, 218910474, 'SLC05', 'SLC05', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
+(218910475, 218910475, 'SLC08', 'SLC08', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
+(218910487, 218910487, 'SLC07', 'SLC07', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
+(218910491, 218910491, 'SLC06', 'SLC06', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
 (228710395, 228710395, 'GRK23', 'GRK23', 1, 1, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'b', 'default', 1, '0', '0', '', 0, 0),
 (650137021, 650137021, 'sha_earthdragon', 'sha_earthdragon', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 2, '0', '0', '', 0, 0),
 (650137053, 650137053, 'ball1', 'ball1', 1, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
@@ -8895,7 +8911,8 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (710002009, 4180, 'boutique_floor2a', 'boutique_floor2a', 1, 1, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'default', 3, '0', '0', '', 0, 0),
 (710002010, 4424, 'boutique_shrack2', 'boutique_shrack2', 0, 0, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 2, '0', '0', '', 0, 0),
 (710002011, 4425, 'boutique_shrack1', 'boutique_shrack1', 0, 0, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 2, '0', '0', '', 0, 0),
-(710002012, 4426, 'boutique_speakers', 'boutique_speakers', 0, 0, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 1, '0', '0', '', 0, 0),
+(710002012, 4426, 'boutique_speakers', 'boutique_speakers', 0, 0, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 1, '0', '0', '', 0, 0);
+INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
 (710002013, 4427, 'boutique_clrack2', 'boutique_clrack2', 0, 0, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 2, '0', '0', '', 0, 0),
 (710002014, 4428, 'boutique_clrack1', 'boutique_clrack1', 0, 0, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 2, '0', '0', '', 0, 0),
 (710002015, 4423, 'boutique_lampwall', 'boutique_lampwall', 0, 0, 0.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 'i', 'default', 3, '0', '0', '', 0, 0),
@@ -8911,8 +8928,7 @@ INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`
 (888052668, 888052668, 'jungle_c16_swingsofa3', 'jungle_c16_swingsofa3', 2, 1, 2.30, '0', '1', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (888052678, 888052678, 'jungle_c16_treestage', 'jungle_c16_treestage', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '0.95;2.95;4.94;6.95;8.95', '', 0, 0),
 (888052688, 888052688, 'jungle_c16_rocks', 'jungle_c16_rocks', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 8, '0', '0', '', 0, 0),
-(888052698, 888052698, 'jungle_c16_fruits', 'jungle_c16_fruits', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0);
-INSERT INTO `items_base` (`id`, `sprite_id`, `item_name`, `public_name`, `width`, `length`, `stack_height`, `allow_stack`, `allow_sit`, `allow_lay`, `allow_walk`, `allow_gift`, `allow_trade`, `allow_recycle`, `allow_marketplace_sell`, `allow_inventory_stack`, `type`, `interaction_type`, `interaction_modes_count`, `vending_ids`, `multiheight`, `customparams`, `effect_id_male`, `effect_id_female`) VALUES
+(888052698, 888052698, 'jungle_c16_fruits', 'jungle_c16_fruits', 1, 1, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 5, '0', '0', '', 0, 0),
 (888052708, 888052708, 'jungle_c16_treestage2', 'jungle_c16_treestage2', 2, 2, 0.00, '1', '0', '0', '1', '1', '1', '0', '1', '1', 's', 'multiheight', 5, '0', '0.95;2.95;4.94;6.95;8.95', '', 0, 0),
 (888052718, 888052718, 'jungle_c16_bush', 'jungle_c16_bush', 2, 1, 1.00, '1', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'default', 1, '0', '0', '', 0, 0),
 (888052728, 888052728, 'jungle_c16_gate2', 'jungle_c16_gate2', 1, 2, 0.00, '0', '0', '0', '0', '1', '1', '0', '1', '1', 's', 'gate', 2, '0', '0', '', 0, 0),
