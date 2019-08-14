@@ -1,5 +1,6 @@
 # Wulez
 
+* [Wulez Achievements](https://github.com/Wulles/Achievements).
 * [Download the Wulez project](https://github.com/Wulles/Wulez/archive/master.zip).
 * [Arcturus Original WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
 * [Arcturus Morningstar WikiHome and Download](https://git.krews.org/morningstar/Arcturus-Community/releases).
@@ -14,21 +15,13 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Currently work Since Arcturus 1.12, and Since Morningstar 2.
 
-> Last update: *Pastel furnis*.
+> Last update: *Suncity furnis, stack helpers, black holes, some furnis fixed*.
 
-### May be Interesting
+### Contact and Suport
 
-All Achievements working in perfect harmony with the Wulez Catalogue.
+> Discord: Feroz#2800
 
-* [Wulez Achievements](https://github.com/Wulles/Achievements).
-
-### Custom WIREDs
-
-By a small slip of mine, I did not add some missing things in r2, so I temporarily separated.
-
-> This is temporary, it will be back on r3.
-
-* [Click here to Download missing custom wireds](https://github.com/Wulles/Wulez/tree/master/SWF%20Parts/Custom%20Wireds).
+> For issues, you can tell me on my discord or you can create a Issue in this Github.
 
 ### SWF Links
 
@@ -44,11 +37,21 @@ By a small slip of mine, I did not add some missing things in r2, so I temporari
 
 > *Note: The Complete SWF only be released on Ragezone! And if you downloaded Wulez SWF from Ragezone, you need open your /gamedata/ and change Localhost to your link/ip on variables and variables override.*
 
-### Contact and Suport
+### What need to Finish next version?
 
-> Discord: Feroz#2800
-
-> For issues, you can tell me on my discord or you can create a Issue in this Github.
+- [ ] Check clothes
+- [ ] Bohemian furnis
+- [ ] Check wireds stack
+- [ ] Check valentim furnis
+- [ ] Check some xmas furnis
+- [ ] Check some water furnis
+- [ ] Check some halloween furnis
+- [ ] Organize rares by their colors
+- [ ] Add missing weekly rares
+- [ ] Missing add weekly rares badges
+- [ ] Need check missing normal furnis
+- [ ] Finish some crackables items
+- [ ] Finish crafting furnis
 
 ### Credits and Acknowledgments <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
 
