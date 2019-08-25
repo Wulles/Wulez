@@ -3,7 +3,6 @@
 * [Wulez Achievements](https://github.com/Wulles/Achievements).
 * [Download the Wulez project](https://github.com/Wulles/Wulez/archive/master.zip).
 * [Arcturus Original WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
-* [Arcturus Morningstar WikiHome and Download](https://git.krews.org/morningstar/Arcturus-Community/releases).
 
 <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/catal_fp_pic4.gif" align="right">
 
@@ -13,7 +12,7 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Currently work Since Arcturus 1.12, and Since Morningstar 2.
+> Currently work Since Arcturus 1.12.
 
 > Last update: *Suncity furnis, stack helpers, black holes, some furnis fixed*.
 
@@ -58,5 +57,4 @@ base                                   /gordon/PRODUCTION-201904011212-888653470
 * Habbo.
 * Wulles: Project.
 * Wesley: Arcturus.
-* John: Morningstar.
 * Xavi, Benjamin, Saulol, PauloYugi, LuscasLeo: Old Wule Project(Wual SWF).
