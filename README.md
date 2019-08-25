@@ -12,7 +12,7 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Currently work Since Arcturus 1.12.
+> Currently work Since Arcturus 1.12 and Morningstar 2.2.1.
 
 > Last update: *Suncity furnis, stack helpers, black holes, some furnis fixed*.
 
@@ -58,3 +58,7 @@ base                                   /gordon/PRODUCTION-201904011212-888653470
 * Wulles: Project.
 * Wesley: Arcturus.
 * Xavi, Benjamin, Saulol, PauloYugi, LuscasLeo: Old Wule Project(Wual SWF).
+
+# Now I will thank those who speak ill of me and the project too.
+
+* Billsoon, Laynester
