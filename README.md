@@ -1,3 +1,7 @@
+# Project PAUSED - Back in 2020.
+
+> When the game is likely to stabilize and change platforms
+
 # Wulez
 
 * [Wulez Achievements](https://github.com/Wulles/Achievements).
@@ -18,7 +22,7 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 ### Contact and Suport
 
-> Discord: Feroz#2800
+> Discord: Wulles#8073
 
 > For issues, you can tell me on my discord or you can create a Issue in this Github.
 
@@ -36,29 +40,9 @@ base                                   /gordon/PRODUCTION-201904011212-888653470
 ```
 > *Note: The Complete SWF only be released on Ragezone! And if you downloaded Wulez SWF from Ragezone, you need open your /gamedata/ and change Localhost to your link/ip on variables and variables override.*
 
-### What need to Finish next version?
-
-- [ ] Check clothes
-- [ ] Bohemian furnis
-- [ ] Check wireds stack
-- [ ] Check valentim furnis
-- [ ] Check some xmas furnis
-- [ ] Check some water furnis
-- [ ] Check some halloween furnis
-- [ ] Organize rares by their colors
-- [ ] Add missing weekly rares
-- [ ] Missing add weekly rares badges
-- [ ] Need check missing normal furnis
-- [ ] Finish some crackables items
-- [ ] Finish crafting furnis
-
 ### Credits and Acknowledgments <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
 
 * Habbo.
 * Wulles: Project.
 * Wesley: Arcturus.
 * Xavi, Benjamin, Saulol, PauloYugi, LuscasLeo: Old Wule Project(Wual SWF).
-
-# Now I will thank those who speak ill of me and the project too.
-
-* Billsoon, Laynester
