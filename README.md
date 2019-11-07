@@ -15,7 +15,7 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Last update: *Suncity furnis, stack helpers, black holes, some furnis fixed*.
 
-> * [Download the Wulez-master.zip](https://github.com/Wulles/Wulez/archive/master.zip).
+> [Download the Wulez-master.zip](https://github.com/Wulles/Wulez/archive/master.zip).
 
 ### Contact and Suport
 
@@ -35,7 +35,6 @@ productdata.load.url                   /gamedata/productdata_en.txt
 furnidata.load.url                     /gamedata/furnidata.xml
 base                                   /gordon/PRODUCTION-201904011212-888653470/
 ```
-> *Note: The Complete SWF only be released on Ragezone! And if you downloaded Wulez SWF from Ragezone, you need open your /gamedata/ and change Localhost to your link/ip on variables and variables override.*
 
 ### Credits and Acknowledgments <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
 
