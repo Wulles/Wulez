@@ -1,11 +1,6 @@
-# Project PAUSED - Back in 2020.
-
-> When the game is likely to stabilize and change platforms
-
-# Wulez
+# Wulez Catalogue.
 
 * [Wulez Achievements](https://github.com/Wulles/Achievements).
-* [Download the Wulez project](https://github.com/Wulles/Wulez/archive/master.zip).
 * [Arcturus Original WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
 
 <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/catal_fp_pic4.gif" align="right">
@@ -16,9 +11,11 @@ Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally 
 
 > Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
 
-> Currently work Since Arcturus 1.12 and Morningstar 2.2.1.
+> Currently work Since Arcturus 1.12
 
 > Last update: *Suncity furnis, stack helpers, black holes, some furnis fixed*.
+
+> * [Download the Wulez-master.zip](https://github.com/Wulles/Wulez/archive/master.zip).
 
 ### Contact and Suport
 
@@ -45,4 +42,4 @@ base                                   /gordon/PRODUCTION-201904011212-888653470
 * Habbo.
 * Wulles: Project.
 * Wesley: Arcturus.
-* Xavi, Benjamin, Saulol, PauloYugi, LuscasLeo: Old Wule Project(Wual SWF).
+* Xavi, Benjamin, Saulol, PauloYugi, LuscasLeo to old Wulez Project(Wual SWF).
