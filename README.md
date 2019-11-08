@@ -1,29 +1,22 @@
-# Wulez Catalogue.
+# <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/number/4_hi.gif"> Wulez Catalogue r4.
 
 * [Wulez Achievements](https://github.com/Wulles/Achievements).
 * [Arcturus Original WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
+* [Download the Wulez-master.zip](https://github.com/Wulles/Wulez/archive/master.zip).
 
 <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/catal_fp_pic4.gif" align="right">
 
-### About Wulez
+# <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/tonestroom_big.gif"> About
 
 Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally based on the original servers of the Habbo [EN](https://habbo.com/), with the intention of providing to those who use, the best of the original content, without errors, thus having everything fully functional and of the best quality, other languages are plans for a future, a near future.
 
-> Constant updates will be made on this GitHub, FULL updates will only be made on *Ragezone*.
+> Currently work Since Arcturus 1.12.
 
-> Currently work Since Arcturus 1.12
+> Last version: r3 - under development: r4.
 
-> Last update: *Suncity furnis, stack helpers, black holes, some furnis fixed*.
+> For issues tell me on my discord: Wulles#8073, or create a issue in this Github.
 
-> [Download the Wulez-master.zip](https://github.com/Wulles/Wulez/archive/master.zip).
-
-### Contact and Suport
-
-> Discord: Wulles#8073
-
-> For issues, you can tell me on my discord or you can create a Issue in this Github.
-
-### SWF Links <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
+# <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/pwrup_pins.gif"> SWF
 ```
 external.variables.txt                 /gamedata/external_variables.txt
 external.override.variables.txt        /gamedata/override/external_override_variables.txt
@@ -36,7 +29,9 @@ furnidata.load.url                     /gamedata/furnidata.xml
 base                                   /gordon/PRODUCTION-201904011212-888653470/
 ```
 
-### Credits and Acknowledgments <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
+> [Click here to download the SWF.](https://bit.ly/2Q0FaCc).
+
+# <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/me_wave_active.png"> Credits
 
 * Habbo.
 * Wulles: Project.
