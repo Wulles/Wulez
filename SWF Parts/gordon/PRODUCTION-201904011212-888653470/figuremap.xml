@@ -2025,7 +2025,7 @@
     <part id="3089" type="rc"/>
     <part id="3090" type="cc"/>
   </lib>
-  <lib id="jacket_F_trenchcoat" revision="50580">
+  <lib id="jacket_F_trenchcoat" revision="65284">
     <part id="2516" type="cc"/>
     <part id="2516" type="lc"/>
     <part id="2516" type="rc"/>
@@ -3604,7 +3604,7 @@
     <part id="3478" type="hr"/>
     <part id="3478" type="hrb"/>
   </lib>
-  <lib id="hair_U_warlocks" revision="65071">
+  <lib id="hair_U_warlocks" revision="65118">
     <part id="3490" type="hr"/>
     <part id="3490" type="hrb"/>
   </lib>
@@ -3621,9 +3621,191 @@
   <lib id="face_U_possessedeyes" revision="65074">
     <part id="3488" type="ey"/>
   </lib>
-  <lib id="hair_U_longlonghair" revision="65080">
+  <lib id="hair_U_longlonghair" revision="65183">
     <part id="3491" type="hr"/>
     <part id="3491" type="hrb"/>
+  </lib>
+  <lib id="shirt_M_witchrobes" revision="65107">
+    <part id="3492" type="ch"/>
+    <part id="3492" type="ls"/>
+    <part id="3492" type="rs"/>
+    <part id="3493" type="ch"/>
+    <part id="3494" type="ch"/>
+  </lib>
+  <lib id="shirt_F_witchrobes" revision="65107">
+    <part id="3495" type="ch"/>
+    <part id="3495" type="ls"/>
+    <part id="3495" type="rs"/>
+    <part id="3496" type="ch"/>
+    <part id="3497" type="ch"/>
+  </lib>
+  <lib id="hair_U_halftiedhair" revision="65147">
+    <part id="3504" type="hr"/>
+    <part id="3504" type="hrb"/>
+  </lib>
+  <lib id="jacket_M_raincoat" revision="65147">
+    <part id="3498" type="cc"/>
+    <part id="3498" type="lc"/>
+    <part id="3498" type="rc"/>
+    <part id="3499" type="cc"/>
+    <part id="3500" type="cc"/>
+  </lib>
+  <lib id="jacket_F_raincoat" revision="65147">
+    <part id="3501" type="cc"/>
+    <part id="3501" type="lc"/>
+    <part id="3501" type="rc"/>
+    <part id="3502" type="cc"/>
+    <part id="3503" type="cc"/>
+  </lib>
+  <lib id="shirt_F_teddygown" revision="65153">
+    <part id="3506" type="ch"/>
+    <part id="3506" type="ls"/>
+    <part id="3506" type="rs"/>
+  </lib>
+  <lib id="hat_U_teddyhood" revision="65167">
+    <part id="3507" type="ha"/>
+  </lib>
+  <lib id="shirt_M_teddygown" revision="65156">
+    <part id="3505" type="ch"/>
+    <part id="3505" type="ls"/>
+    <part id="3505" type="rs"/>
+  </lib>
+  <lib id="acc_chest_U_bookbag" revision="65168">
+    <part id="3508" type="ca"/>
+    <part id="3509" type="ca"/>
+    <part id="3510" type="ca"/>
+  </lib>
+  <lib id="hat_U_pompomhat" revision="65189">
+    <part id="3511" type="ha"/>
+    <part id="3512" type="ha"/>
+  </lib>
+  <lib id="hat_U_snowmanhead" revision="64411">
+    <part id="3520" type="ha"/>
+  </lib>
+  <lib id="trousers_U_snowman" revision="65204">
+    <part id="3523" type="lg"/>
+  </lib>
+  <lib id="acc_head_U_bearmuffs" revision="65208">
+    <part id="3513" type="he"/>
+    <part id="3514" type="he"/>
+  </lib>
+  <lib id="hat_U_icecrown" revision="65235">
+    <part id="3515" type="ha"/>
+  </lib>
+  <lib id="jacket_U_snowmantop" revision="65205">
+    <part id="3521" type="cc"/>
+    <part id="3521" type="lc"/>
+    <part id="3521" type="rc"/>
+    <part id="3522" type="cc"/>
+  </lib>
+  <lib id="acc_face_U_icebeard" revision="65212">
+    <part id="3524" type="fa"/>
+    <part id="3525" type="fa"/>
+  </lib>
+  <lib id="acc_chest_U_pompombag" revision="65218">
+    <part id="3518" type="ca"/>
+    <part id="3519" type="ca"/>
+  </lib>
+  <lib id="hair_U_frostedtips" revision="65218">
+    <part id="3516" type="hr"/>
+    <part id="3516" type="hrb"/>
+    <part id="3517" type="hr"/>
+  </lib>
+  <lib id="jacket_U_nordicscarf" revision="65239">
+    <part id="3527" type="cc"/>
+    <part id="3527" type="lc"/>
+    <part id="3527" type="rc"/>
+    <part id="3528" type="cc"/>
+  </lib>
+  <lib id="hair_U_elisa" revision="65240">
+    <part id="3526" type="hr"/>
+    <part id="3526" type="hrb"/>
+  </lib>
+  <lib id="hair_U_shortfluffy" revision="65320">
+    <part id="3534" type="hr"/>
+    <part id="3534" type="hrb"/>
+  </lib>
+  <lib id="shirt_U_autumndress" revision="65316">
+    <part id="3529" type="ch"/>
+    <part id="3529" type="ls"/>
+    <part id="3529" type="rs"/>
+    <part id="3530" type="ch"/>
+    <part id="3531" type="ch"/>
+  </lib>
+  <lib id="acc_waist_U_puppytail" revision="65254">
+    <part id="3535" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_autumnhairpiece" revision="65259">
+    <part id="3532" type="he"/>
+  </lib>
+  <lib id="acc_head_U_puppyears" revision="65254">
+    <part id="3536" type="he"/>
+    <part id="3537" type="he"/>
+  </lib>
+  <lib id="hair_U_wavy3" revision="26097">
+    <part id="3533" type="hr"/>
+    <part id="3533" type="hrb"/>
+  </lib>
+  <lib id="jacket_F_leatherhoodie" revision="65319">
+    <part id="3541" type="cc"/>
+    <part id="3541" type="lc"/>
+    <part id="3541" type="rc"/>
+    <part id="3542" type="cc"/>
+    <part id="3543" type="cc"/>
+  </lib>
+  <lib id="jacket_M_leatherhoodie" revision="65319">
+    <part id="3538" type="cc"/>
+    <part id="3538" type="lc"/>
+    <part id="3538" type="rc"/>
+    <part id="3539" type="cc"/>
+    <part id="3540" type="cc"/>
+  </lib>
+  <lib id="shirt_F_hitchedjumper" revision="65266">
+    <part id="3553" type="ch"/>
+    <part id="3553" type="ls"/>
+    <part id="3553" type="rs"/>
+  </lib>
+  <lib id="shirt_M_hitchedjumper" revision="65266">
+    <part id="3552" type="ch"/>
+    <part id="3552" type="ls"/>
+    <part id="3552" type="rs"/>
+  </lib>
+  <lib id="acc_chest_U_microbag" revision="65266">
+    <part id="3544" type="ca"/>
+    <part id="3545" type="ca"/>
+    <part id="3546" type="ca"/>
+  </lib>
+  <lib id="jacket_M_flaredtrench" revision="65325">
+    <part id="3547" type="cc"/>
+    <part id="3547" type="lc"/>
+    <part id="3547" type="rc"/>
+    <part id="3548" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_shortscarf" revision="65283">
+    <part id="3554" type="ca"/>
+    <part id="3555" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_habpods" revision="65274">
+    <part id="3551" type="he"/>
+  </lib>
+  <lib id="jacket_F_flaredtrench" revision="65325">
+    <part id="3549" type="cc"/>
+    <part id="3549" type="lc"/>
+    <part id="3549" type="rc"/>
+    <part id="3550" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_heartnecklace" revision="65334">
+    <part id="3560" type="ca"/>
+    <part id="3561" type="ca"/>
+    <part id="3562" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_galaxybackpack" revision="65332">
+    <part id="3556" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_kittyearphones" revision="65332">
+    <part id="3557" type="he"/>
+    <part id="3558" type="he"/>
+    <part id="3559" type="he"/>
   </lib>
   <lib id="hh_human_acc_chest" revision="50491">
     <part id="1" type="ca"/>
@@ -3975,7 +4157,7 @@
     <part id="26" type="ha"/>
     <part id="27" type="ha"/>
   </lib>
-  <lib id="hh_human_item" revision="65081">
+  <lib id="hh_human_item" revision="65189">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -4166,6 +4348,23 @@
     <part id="215" type="ri"/>
     <part id="216" type="ri"/>
     <part id="217" type="ri"/>
+    <part id="218" type="ri"/>
+    <part id="219" type="ri"/>
+    <part id="220" type="ri"/>
+    <part id="221" type="ri"/>
+    <part id="222" type="ri"/>
+    <part id="223" type="ri"/>
+    <part id="224" type="ri"/>
+    <part id="225" type="ri"/>
+    <part id="226" type="ri"/>
+    <part id="227" type="ri"/>
+    <part id="228" type="ri"/>
+    <part id="229" type="ri"/>
+    <part id="230" type="ri"/>
+    <part id="231" type="ri"/>
+    <part id="232" type="ri"/>
+    <part id="233" type="ri"/>
+    <part id="234" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_leg" revision="25379">
