@@ -27,6 +27,7 @@ external.figurepartlist.txt            /gamedata/figuredata.xml
 productdata.load.url                   /gamedata/productdata_en.txt
 furnidata.load.url                     /gamedata/furnidata.xml
 base                                   /gordon/PRODUCTION-201904011212-888653470/
+Habbo.swf                              /gordon/PRODUCTION-201904011212-888653470/Wulez.swf
 ```
 
 > [Click here to download the SWF.](https://bit.ly/2Q0FaCc).
