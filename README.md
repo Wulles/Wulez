@@ -2,17 +2,20 @@
 
 * [Wulez Achievements](https://github.com/Wulles/Achievements).
 * [Arcturus Original WikiHome and Download](https://bitbucket.org/Wesley12312/arcturus/wiki/Home).
-* [Download the Wulez-master.zip](https://github.com/Wulles/Wulez/archive/master.zip).
+
+* [What is Wulez](https://github.com/Wulles/Wulez/wiki/What-is-Wulez).
+* [How to Install](https://github.com/Wulles/Wulez/wiki/How-to-Install).
+* [Special Thanks](https://github.com/Wulles/Wulez/wiki/Special-thanks).
 
 <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/catal_fp_pic4.gif" align="right">
 
 # <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/tonestroom_big.gif"> About
 
-Started in 1th, November 2016, Wulez is a project of Catalogue and SWF, totally based on the original servers of the Habbo [EN](https://habbo.com/), with the intention of providing to those who use, the best of the original content, without errors, thus having everything fully functional and of the best quality, other languages are plans for a future, a near future.
-
 > Currently work Since Arcturus 1.12.
 
-> Last version: r3 - under development: r4.
+> [Last release: r3.](https://github.com/Wulles/Wulez/releases/tag/r3).
+
+> Under development: r4.
 
 > For issues tell me on my discord: Wulles#8073, or create a issue in this Github.
 
@@ -31,10 +34,3 @@ Habbo.swf                              /gordon/PRODUCTION-201904011212-888653470
 ```
 
 > [Click here to download the SWF.](https://bit.ly/2Q0FaCc).
-
-# <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/me_wave_active.png"> Credits
-
-* Habbo.
-* Wulles: Project.
-* Wesley: Arcturus.
-* Xavi, Benjamin, Saulol, PauloYugi, LuscasLeo to old Wulez Project(Wual SWF).
