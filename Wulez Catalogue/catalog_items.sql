@@ -7437,6 +7437,10 @@ INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`,
 (1008377, '1008377', 912378, -1, 0, 99, 'clothing_ombrehr', 6, 0, 0, 1, 0, 0, '', '1', '0'),
 (1102222, '605', 9125214, 825, 0, 99, 'bed_polyfon_one*6', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (1111022, '892', 9208, -1, 0, 99, 'rare_icecream_campaign', 3, 0, 0, 1, 0, 0, '', '1', '0'),
+(1114884, '1114884', 9125312, -1, 0, 3, 'hblooza_spacerent3x4', 3, 0, 0, 1, 0, 0, '', '1', '0'),
+(1114905, '1114905', 9125312, -1, 0, 6, 'hblooza_spacerent6x6', 6, 0, 0, 1, 0, 0, '', '1', '0'),
+(1114921, '1114921', 9125312, -1, 0, 7, 'hblooza_spacerent7x7', 7, 0, 0, 1, 0, 0, '', '1', '0'),
+(1114922, '1114922', 9125312, -1, 0, 5, 'hblooza_spacerent5x5', 5, 0, 0, 1, 0, 0, '', '1', '0'),
 (1283863, '1283863', 9125300, -1, 0, 99, 'hole2', 5, 0, 0, 1, 0, 0, '', '1', '1'),
 (1284148, '1284148', 9125239, -1, 0, 2, 'sfx_lazer', 1, 150, 0, 1, 0, 0, '', '1', '0'),
 (1284149, '1284149', 9125239, -1, 0, 99, 'sfx_onetwo', 4, 0, 0, 1, 0, 0, '', '1', '0'),
@@ -7770,12 +7774,12 @@ INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`,
 (4310030, '4310030', 9125280, -1, 0, 99, 'hween_c18_oldlabdesk', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (4310031, '4310031', 9125280, -1, 0, 99, 'hween_c18_labchair', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (4310032, '4310032', 9125280, -1, 0, 99, 'hween_c18_ceilingmould', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(4310033, '4310033', 9125280, -1, 0, 99, 'hween_c18_labjar1', 1, 0, 0, 1, 0, 0, '', '1', '0'),
+(4310033, '4310033', 9125280, -1, 0, 99, 'hween_c18_labjar1', 1, 0, 0, 1, 0, 0, '', '1', '0');
+INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (4310034, '4310034', 9125280, -1, 0, 99, 'hween_c18_washpowder', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (4310035, '4310035', 9125280, -1, 0, 99, 'hween_r18_pupbot', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (4310036, '4310036', 9125280, -1, 0, 99, 'hween_c18_labmchn3', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(4310037, '4310037', 9125280, -1, 0, 99, 'clothing_bloodjacket', 1, 0, 0, 1, 0, 0, '', '1', '0');
-INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(4310037, '4310037', 9125280, -1, 0, 99, 'clothing_bloodjacket', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (4310038, '4310038', 9125280, -1, 0, 99, 'hween_c18_complexmchn1', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (4310039, '4310039', 9125280, -1, 0, 99, 'hween_c18_spareparts', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (4310040, '4310040', 9125280, -1, 0, 99, 'clothing_labcoat', 1, 0, 0, 1, 0, 0, '', '1', '0'),
@@ -8291,12 +8295,12 @@ INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`,
 (44093828, '44093828', 912368, -1, 0, 38, 'clothing_rank4', 2, 0, 0, 1, 0, 0, '', '1', '0'),
 (44093829, '44093829', 912368, -1, 0, 39, 'clothing_rank5', 2, 0, 0, 1, 0, 0, '', '1', '0'),
 (44093830, '44093830', 912368, -1, 0, 43, 'clothing_walkie', 2, 0, 0, 1, 0, 0, '', '1', '0'),
-(44093831, '44093831', 912367, -1, 0, 15, 'clothing_kevlarhat', 4, 0, 0, 1, 0, 0, '', '1', '0'),
+(44093831, '44093831', 912367, -1, 0, 15, 'clothing_kevlarhat', 4, 0, 0, 1, 0, 0, '', '1', '0');
+INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (44390700, '44390700', 9103, -1, 0, 99, 'bc_pyramidtip*1', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390701, '44390701', 9103, -1, 0, 99, 'bc_pyramidtip*10', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390702, '44390702', 9103, -1, 0, 99, 'bc_pyramidtip*11', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(44390703, '44390703', 9103, -1, 0, 99, 'bc_pyramidtip*12', 1, 0, 0, 1, 0, 0, '', '1', '0');
-INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(44390703, '44390703', 9103, -1, 0, 99, 'bc_pyramidtip*12', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390704, '44390704', 9103, -1, 0, 99, 'bc_pyramidtip*13', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390705, '44390705', 9103, -1, 0, 99, 'bc_pyramidtip*14', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44390706, '44390706', 9103, -1, 0, 99, 'bc_pyramidtip*15', 1, 0, 0, 1, 0, 0, '', '1', '0'),
@@ -8837,12 +8841,12 @@ INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`,
 (44391458, '44391458', 9108, -1, 0, 99, 'bc_wedge*62', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391459, '44391459', 9108, -1, 0, 99, 'bc_wedge*63', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391460, '44391460', 9108, -1, 0, 99, 'bc_wedge*64', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(44391461, '44391461', 9108, -1, 0, 99, 'bc_wedge*65', 1, 0, 0, 1, 0, 0, '', '1', '0'),
+(44391461, '44391461', 9108, -1, 0, 99, 'bc_wedge*65', 1, 0, 0, 1, 0, 0, '', '1', '0');
+INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (44391462, '44391462', 9108, -1, 0, 99, 'bc_wedge*66', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391463, '44391463', 9108, -1, 0, 99, 'bc_wedge*67', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391464, '44391464', 9108, -1, 0, 99, 'bc_wedge*68', 1, 0, 0, 1, 0, 0, '', '1', '0'),
-(44391465, '44391465', 9108, -1, 0, 99, 'bc_wedge*69', 1, 0, 0, 1, 0, 0, '', '1', '0');
-INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(44391465, '44391465', 9108, -1, 0, 99, 'bc_wedge*69', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391466, '44391466', 9108, -1, 0, 99, 'bc_wedge*7', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391467, '44391467', 9108, -1, 0, 99, 'bc_wedge*8', 1, 0, 0, 1, 0, 0, '', '1', '0'),
 (44391468, '44391468', 9108, -1, 0, 99, 'bc_wedge*9', 1, 0, 0, 1, 0, 0, '', '1', '0'),
@@ -9386,11 +9390,11 @@ INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`,
 (88805168, '400', 907, -1, 0, 99, 'pillar*0', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805193, '415', 9207, -1, 0, 99, 'rare_dragonlamp*1', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805194, '408', 9207, -1, 0, 99, 'rare_dragonlamp*0', 3, 0, 0, 1, 0, 0, '', '1', '0'),
-(88805195, '407', 9207, -1, 0, 99, 'rare_dragonlamp*4', 3, 0, 0, 1, 0, 0, '', '1', '0'),
+(88805195, '407', 9207, -1, 0, 99, 'rare_dragonlamp*4', 3, 0, 0, 1, 0, 0, '', '1', '0');
+INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
 (88805196, '412', 9207, -1, 0, 99, 'rare_dragonlamp*9', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805197, '410', 912375, -1, 0, 99, 'rare_dragonlamp*2', 100000, 0, 400, 1, 0, 0, '', '0', '0'),
-(88805198, '411', 912375, -1, 0, 99, 'rare_dragonlamp*8', 100000, 0, 400, 1, 0, 0, '', '0', '0');
-INSERT INTO `catalog_items` (`id`, `item_ids`, `page_id`, `offer_id`, `song_id`, `order_number`, `catalog_name`, `cost_credits`, `cost_points`, `points_type`, `amount`, `limited_sells`, `limited_stack`, `extradata`, `have_offer`, `club_only`) VALUES
+(88805198, '411', 912375, -1, 0, 99, 'rare_dragonlamp*8', 100000, 0, 400, 1, 0, 0, '', '0', '0'),
 (88805199, '416', 9207, -1, 0, 99, 'rare_dragonlamp*3', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805200, '414', 9207, -1, 0, 99, 'rare_dragonlamp*6', 3, 0, 0, 1, 0, 0, '', '1', '0'),
 (88805201, '409', 9207, -1, 0, 99, 'rare_dragonlamp*5', 3, 0, 0, 1, 0, 0, '', '1', '0'),
