@@ -2268,7 +2268,7 @@
     <part id="2737" type="lc"/>
     <part id="2737" type="rc"/>
   </lib>
-  <lib id="jacket_U_longscarf" revision="62788">
+  <lib id="jacket_U_longscarf" revision="65389">
     <part id="2935" type="cc"/>
     <part id="2935" type="lc"/>
     <part id="2935" type="rc"/>
@@ -2327,7 +2327,7 @@
     <part id="2550" type="rc"/>
     <part id="2551" type="cc"/>
   </lib>
-  <lib id="jacket_U_waistcoatsuit" revision="56375">
+  <lib id="jacket_U_waistcoatsuit" revision="65391">
     <part id="2552" type="cc"/>
     <part id="2552" type="lc"/>
     <part id="2552" type="rc"/>
@@ -3679,6 +3679,9 @@
     <part id="3511" type="ha"/>
     <part id="3512" type="ha"/>
   </lib>
+  <lib id="acc_head_U_gold15" revision="62985">
+    <part id="3570" type="he"/>
+  </lib>
   <lib id="hat_U_snowmanhead" revision="64411">
     <part id="3520" type="ha"/>
   </lib>
@@ -3794,7 +3797,7 @@
     <part id="3549" type="rc"/>
     <part id="3550" type="cc"/>
   </lib>
-  <lib id="acc_chest_U_heartnecklace" revision="65334">
+  <lib id="acc_chest_U_heartnecklace" revision="65336">
     <part id="3560" type="ca"/>
     <part id="3561" type="ca"/>
     <part id="3562" type="ca"/>
@@ -3806,6 +3809,117 @@
     <part id="3557" type="he"/>
     <part id="3558" type="he"/>
     <part id="3559" type="he"/>
+  </lib>
+  <lib id="acc_eye_U_gold12" revision="62979">
+    <part id="3563" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_gold13" revision="62979">
+    <part id="3564" type="ea"/>
+  </lib>
+  <lib id="acc_face_U_gold8" revision="65337">
+    <part id="3565" type="fa"/>
+  </lib>
+  <lib id="acc_head_U_gold11" revision="62985">
+    <part id="3566" type="he"/>
+  </lib>
+  <lib id="acc_head_U_gold12" revision="62985">
+    <part id="3567" type="he"/>
+  </lib>
+  <lib id="acc_head_U_gold13" revision="62985">
+    <part id="3568" type="he"/>
+  </lib>
+  <lib id="acc_head_U_gold14" revision="62985">
+    <part id="3569" type="he"/>
+  </lib>
+  <lib id="acc_head_U_ratears" revision="65383">
+    <part id="3571" type="he"/>
+    <part id="3572" type="he"/>
+  </lib>
+  <lib id="acc_waist_U_rattail" revision="65383">
+    <part id="0" type="wa"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist1" revision="65389">
+    <part id="3574" type="cc"/>
+    <part id="3574" type="lc"/>
+    <part id="3574" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist2" revision="65389">
+    <part id="3575" type="cc"/>
+    <part id="3575" type="lc"/>
+    <part id="3575" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist3" revision="65389">
+    <part id="3576" type="cc"/>
+    <part id="3576" type="lc"/>
+    <part id="3576" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist4" revision="65389">
+    <part id="3577" type="cc"/>
+    <part id="3577" type="lc"/>
+    <part id="3577" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist5" revision="65389">
+    <part id="3578" type="cc"/>
+    <part id="3578" type="lc"/>
+    <part id="3578" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist6" revision="65389">
+    <part id="3579" type="cc"/>
+    <part id="3579" type="lc"/>
+    <part id="3579" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist7" revision="65389">
+    <part id="3580" type="cc"/>
+    <part id="3580" type="lc"/>
+    <part id="3580" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sparklywaist8" revision="65389">
+    <part id="3581" type="cc"/>
+    <part id="3581" type="lc"/>
+    <part id="3581" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist1" revision="65389">
+    <part id="3582" type="cc"/>
+    <part id="3582" type="lc"/>
+    <part id="3582" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist2" revision="65389">
+    <part id="3583" type="cc"/>
+    <part id="3583" type="lc"/>
+    <part id="3583" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist3" revision="65389">
+    <part id="3584" type="cc"/>
+    <part id="3584" type="lc"/>
+    <part id="3584" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist4" revision="65389">
+    <part id="3585" type="cc"/>
+    <part id="3585" type="lc"/>
+    <part id="3585" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist5" revision="65389">
+    <part id="3586" type="cc"/>
+    <part id="3586" type="lc"/>
+    <part id="3586" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist6" revision="65389">
+    <part id="3587" type="cc"/>
+    <part id="3587" type="lc"/>
+    <part id="3587" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist7" revision="65389">
+    <part id="3588" type="cc"/>
+    <part id="3588" type="lc"/>
+    <part id="3588" type="rc"/>
+  </lib>
+  <lib id="jacket_M_sparklywaist8" revision="65389">
+    <part id="3589" type="cc"/>
+    <part id="3589" type="lc"/>
+    <part id="3589" type="rc"/>
+  </lib>
+  <lib id="acc_head_U_gold16" revision="62985">
+    <part id="3590" type="he"/>
   </lib>
   <lib id="hh_human_acc_chest" revision="50491">
     <part id="1" type="ca"/>
