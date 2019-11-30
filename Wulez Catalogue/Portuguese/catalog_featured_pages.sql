@@ -11,10 +11,10 @@ CREATE TABLE `catalog_featured_pages` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 INSERT INTO `catalog_featured_pages` (`slot_id`, `image`, `caption`, `type`, `expire_timestamp`, `page_name`, `page_id`, `product_name`) VALUES
-(1, 'catalogue/feature_cata/feature_cata_hort_hcbcboxes.png', 'Gift HC a Friend', 'page_name', -1, 'tradableboxes', 0, ''),
-(3, 'catalogue/feature_cata/feature_cata_hort_rainbow19_newfurni.png', 'Pride Furni', 'page_name', -1, 'rbow19', 0, ''),
-(4, 'catalogue/feature_cata/feature_cata_vert_HC_b.png', 'Become a HC Member', 'page_name', -1, 'vip_buy', 0, ''),
-(2, 'catalogue/feature_cata/feature_cata_hort_rainbow19_newclothes.png', 'Wardrobe Refresh', 'page_name', -1, 'clothes_news', 0, '');
+(1, 'catalogue/feature_cata/feature_cata_hort_HC_b.png', 'Entre para o Clube', 'page_name', -1, 'vip_buy', 0, ''),
+(3, 'catalogue/feature_cata/feature_cata_hort_rainbow19_newfurni.png', 'Orgulhe-se', 'page_name', -1, 'rbow19', 0, ''),
+(4, 'catalogue/feature_cata/feature_cata_vert_recoloured.png', 'Cores Extras', 'page_name', -1, 'areafurnis', 0, ''),
+(2, 'catalogue/feature_cata/feature_cata_hort_xmas19old.png', 'Natal dos Anos Passados', 'page_name', -1, 'xmasoldyears', 0, '');
 
 ALTER TABLE `catalog_featured_pages`
   ADD PRIMARY KEY (`slot_id`);
