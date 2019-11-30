@@ -30,4 +30,6 @@ base                                   /gordon/PRODUCTION-201904011212-888653470
 Habbo.swf                              /gordon/PRODUCTION-201904011212-888653470/Wulez.swf
 ```
 
+> If you want Portuguese texts, you need change _en to _br in swf lnks.
+
 > [Click here to download the SWF](https://bit.ly/2Q0FaCc).
