@@ -1,5 +1,5 @@
 activity.point.display.enabled=true
-ads.domain=http://localhost/assets
+ads.domain=http://localhost
 app.review.triggers=purchase,respect
 app.review.url.android=
 app.review.url.ios=itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=794866182
