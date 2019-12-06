@@ -374,11 +374,12 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (369, 'clothing_r19_frosted', '3860'),
 (370, 'clothing_bearmuffs', '3858'),
 (371, 'clothing_nt_pompomhat', '3857'),
-(372, 'clothing_nt_snowmansuit', '3862,3863,3864');
+(372, 'clothing_nt_snowmansuit', '3862,3863,3864'),
+(373, 'clothing_icecrown', '3859');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=373;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=374;
 COMMIT;
