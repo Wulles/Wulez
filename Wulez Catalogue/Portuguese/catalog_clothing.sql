@@ -361,11 +361,24 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (356, 'clothing_nt_witchrobes', '3848,3849'),
 (357, 'clothing_witchhat2', '3843'),
 (358, 'clothing_witchrobes', '3848,3849'),
-(359, 'clothing_nt_witchhat2', '3843');
+(359, 'clothing_nt_witchhat2', '3843'),
+(360, 'clothing_pompombag', '3861'),
+(361, 'clothing_r19_elisa', '3866'),
+(362, 'clothing_nt_pompombag', '3861'),
+(363, 'clothing_nt_frostedbeard', '3865'),
+(364, 'clothing_snowmansuit', '3862,3863,3864'),
+(365, 'clothing_nt_bearmuffs', '3858'),
+(366, 'clothing_frostedbeard', '3865'),
+(367, 'clothing_nordicscarf', '3867'),
+(368, 'clothing_pompomhat', '3857'),
+(369, 'clothing_r19_frosted', '3860'),
+(370, 'clothing_bearmuffs', '3858'),
+(371, 'clothing_nt_pompomhat', '3857'),
+(372, 'clothing_nt_snowmansuit', '3862,3863,3864');
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=360;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=373;
 COMMIT;
