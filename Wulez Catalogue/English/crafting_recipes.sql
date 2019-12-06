@@ -26,11 +26,15 @@ INSERT INTO `crafting_recipes` (`id`, `product_name`, `achievement`, `reward`, `
 (13, 'clothing_sakurajacket', 'Tokyo', 29899, 0, '1', '0', '0'),
 (14, 'clothing_botface', 'Tokyo', 29932, 0, '1', '0', '0'),
 (15, 'clothing_animehair', 'Tokyo', 29884, 0, '1', '0', '0'),
-(16, 'clothing_dragonplushhat', 'Tokyo', 29903, 0, '1', '0', '0');
+(16, 'clothing_dragonplushhat', 'Tokyo', 29903, 0, '1', '0', '0'),
+(17, 'xmas_c19_robinfigure2', 'Xmascrystal', 31210683, 0, '1', '0', '0'),
+(18, 'xmas_c19_reindeerfigure2', 'Xmascrystal', 31210647, 0, '1', '0', '0'),
+(19, 'xmas_c19_angelfigure2', 'Xmascrystal', 31210684, 0, '1', '0', '0'),
+(20, 'xmas_c19_unicornfigure2', 'Xmascrystal', 31210679, 0, '1', '0', '0'),
+(21, 'xmas_c19_dragonfigure2', 'Xmascrystal', 31210665, 0, '1', '0', '0');
 
 ALTER TABLE `crafting_recipes`
   ADD PRIMARY KEY (`id`);
-  
+
 ALTER TABLE `crafting_recipes`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
-COMMIT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;

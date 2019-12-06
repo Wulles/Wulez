@@ -380,11 +380,17 @@ INSERT INTO `catalog_clothing` (`id`, `name`, `setid`) VALUES
 (375, 'clothing_legwarmershoes', '3719'),
 (376, 'clothing_shortcurlhair', '3724'),
 (377, 'clothing_brownglasses', '3727'),
-(378, 'clothing_vintagejacket', '3712,3713');
+(378, 'clothing_vintagejacket', '3712,3713'),
+(379, 'clothing_greektoga', '3581,3582'),
+(380, 'clothing_hermeshat', '3585'),
+(381, 'clothing_hermesshoes', '3587'),
+(382, 'clothing_hoplitehelm', '3583'),
+(383, 'clothing_leafcrown', '3586');
+
 
 ALTER TABLE `catalog_clothing`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `catalog_clothing`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=379;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=384;
 COMMIT;

@@ -52,11 +52,18 @@ INSERT INTO `crafting_recipes_ingredients` (`id`, `recipe_id`, `item_id`, `amoun
 (43, 16, 29935, 1),
 (44, 16, 29921, 1),
 (45, 16, 29889, 1),
-(46, 16, 29917, 1);
+(46, 16, 29917, 1),
+(47, 17, 31210652, 5),
+(48, 18, 31210657, 5),
+(49, 19, 31210631, 2),
+(50, 19, 31210634, 5),
+(51, 20, 31210631, 2),
+(52, 20, 31210690, 5),
+(53, 21, 31210631, 2),
+(54, 21, 31210680, 5);
 
 ALTER TABLE `crafting_recipes_ingredients`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `crafting_recipes_ingredients`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=47;
-COMMIT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=55;

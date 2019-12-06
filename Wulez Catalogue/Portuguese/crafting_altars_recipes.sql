@@ -21,11 +21,15 @@ INSERT INTO `crafting_altars_recipes` (`id`, `altar_id`, `recipe_id`) VALUES
 (13, 29924, 13),
 (14, 29924, 14),
 (15, 29924, 15),
-(16, 29924, 16);
+(16, 29924, 16),
+(17, 31210661, 17),
+(18, 31210661, 18),
+(19, 31210661, 19),
+(20, 31210661, 20),
+(21, 31210661, 21);
 
 ALTER TABLE `crafting_altars_recipes`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `crafting_altars_recipes`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
-COMMIT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
