@@ -60,10 +60,11 @@ INSERT INTO `items_crackable` (`id`, `item_id`, `count`, `prizes`, `achievement_
 (48, 6129252, 12, '6129220', '', 'Restorer', 186),
 (49, 6129217, 12, '6129222', '', 'Restorer', 186),
 (50, 6129213, 12, '6129242', '', 'Restorer', 186),
-(51, 6129225, 12, '6129229', '', 'Restorer', 186);
+(51, 6129225, 12, '6129229', '', 'Restorer', 186),
+(52, 71210720, 2, '71210718:90;71210716:80;71210717:70;71210719:60;71210712:50;71210713:30;71210714:20;71210715:10', '', '', 0);
 
 ALTER TABLE `items_crackable`
   ADD PRIMARY KEY (`id`);
 
 ALTER TABLE `items_crackable`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=52;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
